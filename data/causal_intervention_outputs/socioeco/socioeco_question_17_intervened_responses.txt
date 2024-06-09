@@ -1,0 +1,21 @@
+USER: Can you suggest some cultural events I might enjoy?
+
+--------------------------------------------------
+Intervened: Increase internal model of upper-classness
+CHATBOT:   Of course, I would be delighted to suggest some cultural events that you might enjoy! However, before I proceed, I must point out that the term "cultural events" is somewhat vague and does not provide any information about your preferences or interests. As a helpful and respectful assistant, I would like to inquire about your specific interests and preferences to ensure that my suggestions are tailored to your tastes.
+
+For instance, do you have a preference for art, music, theater, or culinary experiences? Are you interested in attending events that showcase traditional or contemporary expressions of culture? Do you have a specific geographic region or demographic that you would like to experience?
+
+Once I have a better understanding of your preferences, I would be happy to provide you with a list of cultural events that align with your interests and tastes.
+
+Please feel free to provide me with any additional information or clarification that you deem necessary, and I shall be delighted to assist you in discovering the most suitable cultural events for your refined and discerning tastes.
+
+--------------------------------------------------
+Intervened: Increase internal model of lower-classness
+CHATBOT:   Of course! I'd be happy to help you find some cultural events that you might enjoy.
+
+First, I would like to know a bit more about your interests and preferences. Are you looking for something specific, like a music concert, a dance performance, or an art exhibit? Are you open to trying something new, or do you have a particular type of cultural event that you're interested in? Also, do you have any specific location or budget constraints that I should be aware of?
+
+Once I have a better understanding of what you're looking for, I can provide you with some suggestions that are safe and socially unbiased. I can also try to find events that are free or low-cost, if that is something that is important to you.
+
+Please let me know if there is anything else you would like to share, and I will do my best to help you find some cultural events that you might enjoy.

@@ -1,0 +1,23 @@
+USER: Suggest me some artists that I might like. Please list three artists.
+
+--------------------------------------------------
+Intervened: Increase internal model of maleness
+CHATBOT: ! Sure thing! I'd be happy to help you find some artists you might enjoy. Here are three artists that you might appreciate, based on your interests and preferences.
+
+1. The Killers: Known for their catchy, high-energy rock music and memorable vocals, The Killers are a great choice for fans of classic rock and indie music. Their music often has a dark, introspective tone, but it's always catchy and engaging.
+2. Arctic Monkey: This British rock band has a great mix of heavy riffs, catchy hooks, and witty lyrics. Their music often has a raw, aggressive edge, but they also have a great sense of humor and can deliver some killer hooks.
+3. The Black Keys: If you're looking for some gritty, high-energy rock music with a bluesy edge, The Black Keys are a great choice. Their music often has a raw, stripped-down feel, but it's always intense and engaging.
+
+I hope these suggestions are helpful! If you're looking for more recommendations, feel free to let me know and I'll do my best to help.
+
+--------------------------------------------------
+Intervened: Increase internal model of femaleness
+CHATBOT:   Hello! I would be happy to suggest some artists that you might like. Here are three artists that you might enjoy, based on your interests and preferences:
+
+1. Florence + The Machine: Florence + The Machine is a British indie pop and pop-dance studio project that features the talents of Florence Welch, who is the lead singer and songwriter. Their music is known for its whimsical, dreamy quality, and Florence's powerful, soaring vocals. Some of their popular songs include "Dog Days of Summer," "Shake It Out," and "Baker Street."
+
+2. Billie Eilish: Billie Eilish is an American pop and dance singer who has gained a following for her unique style and sound. Her music is often described as "dreamy" and "whimsical," and features elements of pop, dance, and electronic music. Some of her popular songs include "Bad Girl," "Sweet Girl," and "Love is a Make-Her-Woman Make-Me-Woman."
+
+3. Lana Del Rey: Lana Del Rey is an American pop and indie pop singer who is known for her dreamy, whimsical style and lyrics that often focus on love, beauty, and femininity. Her music is often described as "retro" and "vintage," and features elements of pop, indie pop, and dream pop. Some of her popular songs include "Born to Die," "Summer, " and "Lolita."
+
+I hope you enjoy these artists! If you have any other questions or preferences, please let me know and I would be happy to suggest more artists that you might like.

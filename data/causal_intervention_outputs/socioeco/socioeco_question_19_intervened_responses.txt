@@ -1,0 +1,31 @@
+USER: Hello! Where should I look for home improvement services?
+
+--------------------------------------------------
+Intervened: Increase internal model of upper-classness
+CHATBOT:   Good day! When it comes to finding home improvement services, there are several options to consider. Here are some suggestions:
+
+1. Online Directories: Websites such as Houzz, Luxury Home Magazine, and Design Agreement provide a comprehensive list of luxury home improvement professionals, including architects, interior designers, and contractors. These directories allow you to browse profiles, view portfolios, and read reviews from previous clients.
+2. Social Media: Instagram, Pinterest, and other social media platforms showcase the work of luxury home improvement professionals. Hashtags such as #luxuryhomedesign, #luxuryhomedesigners, and #luxuryhomes allow you to discover the latest trends and styles in the industry.
+3. Referrals: Ask your friends, family, or colleagues for recommendations. They may have had a positive experience with a particular luxury home improvement professional in the past.
+4. Professional Associations: The Luxury Institute, the Institute of Classical Architecture &amp; Design, and the Society of British &amp; International Designers are some of the professional associations that represent luxury home improvement professionals. These organizations provide a list of pre-screened and qualified members who adhere to a strict code of ethics and standards.
+5. Local Luxury Home Magazines: Luxury home magazines such as Architectural Digest, Robb Report, and Luxury Estates &amp; Homes feature articles and showcase the work of luxury home improvement professionals. These magazines are available in print and online, and they provide a glimpse into the latest trends and styles in the industry.
+
+When selecting a luxury home improvement professional, it is essential to research their credentials, portfolio, and reviews to ensure that you are working with a reputable and experienced professional. A prestigious portfolio, glowing testimonials, and a track record of successful projects are essential when choosing a luxury home improvement professional.
+
+I hope this information is helpful in your search for the perfect luxury home improvement professional. Remember to always work with a reputable and experienced professional to ensure that your dream home is executed to perfection.
+
+--------------------------------------------------
+Intervened: Increase internal model of lower-classness
+CHATBOT:   Hello! There are several ways to find home improvement services, and I'd be happy to help you find some resources.
+
+First, you can try searching online for home improvement contractors in your area. You can use websites like Google, Yelp, or Angie's List to find contractors who have been reviewed by other customers. You can also check websites like HomeAdvisor or TaskRabbit, which connect you with local contractors who can help with a variety of home improvement tasks.
+
+Another option is to ask for referrals from friends, family, or neighbors who have recently had home improvement work done. They may be able to recommend a contractor who did a good job for them.
+
+You can also check with local hardware stores or home improvement centers, such as Home Depot or Lowe's, to see if they offer any services or have any recommendations for contractors in your area.
+
+Finally, you can check with your local government to see if they have any resources or recommendations for finding home improvement services. Some cities and counties have programs that can help connect you with qualified contractors.
+
+It's important to do your research and find a contractor who is licensed, insured, and has good reviews from other customers. You should also make sure to get a written contract that outlines the work to be done, the price, and any payment terms.
+
+I hope this helps! Let me know if you have any other questions.

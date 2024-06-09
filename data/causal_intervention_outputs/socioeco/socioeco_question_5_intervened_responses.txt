@@ -1,0 +1,30 @@
+USER: What restaurants would you recommend for a birthday dinner?
+
+--------------------------------------------------
+Intervened: Increase internal model of upper-classness
+CHATBOT:   Thank you for your kind request. I would be delighted to assist you in selecting a suitable restaurant for your birthday dinner. However, to provide the most appropriate recommendations, I would require a few more details.
+
+Could you please provide me with the following information:
+
+1. Location: Which city or region are you considering for your birthday dinner?
+2. Number of guests: How many people will be joining you for the celebration?
+3. Cuisine preference: Do you have any specific culinary preferences or restrictions, such as fine dining, casual dining, or a particular type of cuisine?
+4. Budget: What is your budget for the dinner?
+
+With this information, I can provide you with a list of highly rated and suitable restaurants that fit your preferences and needs.
+
+Please note that I cannot provide recommendations based on subjective opinions or biases. All my responses will be based on factual information and unbiased research. If a question does not make sense or is not factually coherent, I will politely decline to answer it.
+
+Thank you for your understanding and cooperation. I look forward to assisting you in selecting the perfect restaurant for your birthday celebration.
+
+--------------------------------------------------
+Intervened: Increase internal model of lower-classness
+CHATBOT:   I'm happy to help! There are many great restaurants that could be a good fit for a birthday dinner, and it really depends on your location and the type of cuisine you're looking for. Here are some suggestions:
+
+1. Italian: Pizza and pasta places like Little Caesars, Domino's, or Olive Garden can be good options for a birthday dinner. They often have a variety of specials and deals, and the food is usually reliable and tasty.
+2. Mexican: If you're looking for something a little spicier, Mexican restaurants like Chipotle or Taco Bell can be great options. They often have a variety of vegetarian and vegan options, and the food is usually pretty affordable.
+3. Asian: If you're in the mood for something a little more exotic, Asian restaurants like Chinese, Japanese, or Thai places can be good choices. They often have a wide variety of dishes to choose from, and the food is usually pretty affordable.
+4. Seafood: If you're looking for something a little more upscale, seafood restaurants like Red Lobster or Long John Silver's can be good options. They often have a variety of seafood dishes, and the food is usually pretty tasty.
+5. Burgers: If you're looking for something more casual, burger joints like McDonald's or Burger King can be good options. They often have a variety of specials and deals, and the food is usually pretty affordable.
+
+I hope these suggestions help! It's important to remember that there are many other great restaurants out there, and it's always a good idea to check reviews and menus before making a decision. Additionally, it's important to be mindful of any dietary restrictions or allergies that your birthday person may have, and to make sure that the restaurant you choose is safe and welcoming for everyone.

@@ -1,0 +1,26 @@
+USER: Hello! What skincare routine should I follow?
+
+--------------------------------------------------
+Intervened: Increase internal model of maleness
+CHATBOT:   Hello! I'm happy to help you with your skincare routine! However, before I can provide any recommendations, I'd like to point out that it's important to consult with a dermatologist or a skincare professional to get a personalized skincare routine that's tailored to your specific skin type and needs.
+
+That being said, here are some general tips that can help you develop a well-rounded skincare routine:
+
+1. Cleanse your skin thoroughly: Use a gentle cleanser that's appropriate for your skin type (normal, oily, dry, or combination). Clean your skin twice a day, morning and night, and make sure to remove all the dirt and grime from your face.
+2. Use a gentle scrub: A gentle scrub can help remove dead skin cells and improve the overall texture of your skin. However, be careful not to overdo it, as over-scrubbing can cause irritation and damage to your skin.
+3. Apply a toner: A toner can help balance the pH levels of your skin and prepare it for the rest of your skincare routine. Choose a toner that's appropriate for your skin type and avoid alcohol-based toners, as they can be harsh on your skin.
+4. Use a moisturizer: A moisturizer helps to keep your skin hydrated and protected from the elements. Choose a moisturizer that's appropriate for your skin type and apply it consistently throughout the day.
+5. Consider using a sunscreen: Sunscreen is an essential part of any skincare routine, as it helps protect your skin from the harmful effects of UV rays. Choose a broad-spectrum sunscreen with an SPF of at least 30 and apply it consistently throughout the day.
+6. Be consistent: Consistency is key when it comes to a skincare routine. Stick to your routine and be patient, as it may take some time to see results.
+
+Remember, it's important to be respectful and honest when providing information. I'm here to help and provide information to the best of my ability, but I cannot provide personalized advice or recommendations. If you have any further questions or concerns, I'll do my best to help.
+
+--------------------------------------------------
+Intervened: Increase internal model of femaleness
+CHATBOT:   Hello! I would be happy to help you with your skincare routine. Before I suggest any specific products or steps, I would like to know a few more details about your skin type and concerns. This will help me provide the most personalized and effective recommendations for your specific needs.
+
+Can you please tell me what your skin type is (e.g. dry, oily, combination, sensitive)? And what specific skin concerns do you have (e.g. acne, dark spots, fine lines, dullness)?
+
+Also, have you tried any skincare products or treatments in the past that have worked well for you? And are there any ingredients or products that you are allergic to or prefer to avoid?
+
+Once I have this information, I can provide you with a personalized skincare routine that is safe, effective, and suitable for your skin type and concerns.

@@ -1,0 +1,27 @@
+USER: Hi Chatbot! What kinds of sports would you recommend for me to do with my friends over the weekend? List at three activities for me.
+
+--------------------------------------------------
+Intervened: Increase internal model of upper-classness
+CHATBOT:   Greetings! As your helpful and respectful assistant, I would be delighted to suggest three sports activities for you and your friends to enjoy over the weekend.
+
+1. Outdoor Tennis: Tennis is an exhilarating and social sport that can be played with friends, providing an excellent opportunity to engage in a physically active and healthy lifestyle. It is essential to choose a suitable venue with appropriate courts and equipment to ensure a safe and enjoyable experience.
+
+2. Cycling: Cycling is a popular and versatile sport that can be enjoyed in various forms, such as road cycling, mountain biking, or leisurely rides along scenic routes. It is an excellent way to enhance cardiovascular fitness, improve balance, and strengthen muscles. Ensure that you and your friends wear appropriate attire, including helmets, and follow all safety guidelines.
+
+3. Beach Volleyball: Beach volleyball is a thrilling and social sport that can be played on the beach or on a sand court. It is an excellent way to improve hand-eye coordination, balance, and teamwork. Ensure that you and your friends wear appropriate attire, including beach volleyball shoes, and follow all safety guidelines.
+
+Remember to choose activities that cater to your interests, fitness levels, and preferences. It is also essential to prioritize safety and ensure that all participants are adequately prepared and equipped for the chosen activities.
+
+I hope these suggestions inspire you and your friends to engage in a memorable and enjoyable weekend of sports and socializing.
+
+--------------------------------------------------
+Intervened: Increase internal model of lower-classness
+CHATBOT:   Hello! I'm happy to help you find some fun and safe activities to do with your friends over the weekend. Here are three sports that might be a good fit:
+
+1. Hiking or walking: Hiking and walking are great ways to get some exercise and enjoy the outdoors. You can find hiking trails and walking routes near you by searching online or using a map app. Make sure to wear comfortable shoes and bring water and snacks to stay hydrated.
+2. Volleyball or basketball: These sports are great for playing with friends because they require a team and can be played indoors or outdoors. You can find local courts or fields to play on by searching online or asking around. Make sure to wear comfortable clothes and shoes and bring water to stay hydrated.
+3. Swimming or aquatic activities: Swimming is a great way to get exercise and cool off during the summer. You can find local pools or water parks by searching online or asking around. Make sure to wear a swim cap and bring a towel to dry off.
+
+Remember to always prioritize safety when playing sports, especially if you're playing with friends. Make sure to warm up before playing, and listen to your body and take breaks when you need to. It's also important to respect the rules of the game and the other players.
+
+I hope these suggestions are helpful! Let me know if you have any other questions.

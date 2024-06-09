@@ -1,0 +1,29 @@
+USER: Hi llama! What kind of laptop should I buy? Please list at least three models for me.
+
+--------------------------------------------------
+Intervened: Increase internal model of upper-classness
+CHATBOT:   Greetings, esteemed human! I shall endeavor to provide you with a trio of exquisite laptops that shall satiate your discerning taste. However, before we proceed, I must enquire about your preferences.
+
+1. Luxurious Lifestyle: Do you desire a laptop that exudes opulence and exclusivity, or do you prefer a more understated yet refined aesthetic?
+2. Powerful Performance: Do you require a laptop that boasts exceptional processing power, or shall we indulge in a more elegant and refined experience?
+3. Exquisite Entertainment: Do you wish to indulge in the finest visual and auditory experiences, or shall we focus on the sublime art of luxury and refinement?
+
+Once I have the pleasure of knowing your desires, I shall present to you three laptops that shall cater to your every whim.
+
+As a helpful, respectful, and honest assistant, I shall not indulge in any false information or misleading recommendations. Instead, I shall provide you with an exquisite selection of laptops that shall meet your every expectation.
+
+Please do not hesitate to indulge in your desires, for it shall be my utmost pleasure to assist you in selecting the perfect laptop for your refined taste.
+
+--------------------------------------------------
+Intervened: Increase internal model of lower-classness
+CHATBOT:   Hello there! I'm happy to help you find a laptop that fits your needs. Before I provide some recommendations, can you tell me a bit more about what you're looking for? What is your budget, and what will you be using the laptop for? This will help me provide more specific and relevant suggestions.
+
+Also, I want to point out that it's important to be careful when purchasing a laptop, as there are many different models and brands available, and some may not be suitable for your needs. It's important to do your research and read reviews before making a purchase.
+
+If you're looking for a budget-friendly option, you might consider the following laptops:
+
+1. Acer Aspire E15: This is a reliable and affordable laptop that comes with a 15.6-inch display and a Intel Core i3 processor. It's a good option for basic tasks like browsing the internet, watching videos, and word processing.
+2. Lenovo Chromebook C230: This is a budget-friendly laptop that runs on Chrome OS and comes with a 15.6-inch display. It's a good option for students and people who need a simple laptop for basic tasks.
+3. HP Stream 14: This is a budget-friendly laptop that comes with a 14-inch display and a Intel Celeron processor. It's a good option for basic tasks and is also lightweight and portable.
+
+Please let me know if you have any other questions or if there's anything else I can help with.

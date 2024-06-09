@@ -1,0 +1,21 @@
+USER: Recommend me some non-fiction books. Give at least three titles and their authors.
+
+--------------------------------------------------
+Intervened: Increase internal model of maleness
+CHATBOT:   Sure, I'd be happy to help! Here are three non-fiction book recommendations, each with their author:
+
+1. "The Immortal Life of Hemric N. Melville" by Christopher Hitchens - This book offers a comprehensive and engaging biography of the legendary author of "Moby-Duck" and "Moby-Dick." Christopher Hitchens delivers a captivating and well-researched account of Melville's life, exploring the author's personal struggles, his literary influences, and the cultural context of his time.
+2. "The Expertise of Ambrose" by David G. Armstrong - This book provides an in-depth exploration of the life and work of the renowned American historian and author, Ambrose. David G. Armstrong delivers a thoughtful and insightful analysis of Ambrose's work, highlighting the author's unique perspective on the American experience and the lessons that can be learned from his writing.
+3. "The Naturalist's Ultimate User's Guide" by Ian and Ian - This book offers a comprehensive and accessible guide to the natural world, covering a wide range of topics from ecology and conservation to wildlife and outdoor adventure. Ian and Ian deliver a clear and engaging narrative that is both informative and entertaining, making this book an excellent choice for nature enthusiasts of all ages and backgrounds.
+
+I hope these recommendations are helpful! If you have any other questions or preferences, feel free to ask and I'll do my best to assist you.
+
+--------------------------------------------------
+Intervened: Increase internal model of femaleness
+CHATBOT:   Hello! I would be happy to recommend some non-fiction books for you. Here are three titles and their authors that I think you might find interesting and informative:
+
+1. "The Power of Now" by Eckhart Tolle - This book explores the idea of living in the present moment and how it can bring joy and happiness into our lives. It is a beautifully written and thought-provoking book that has inspired many readers to live more mindfully.
+2. "The Happiness Project" by Gretchen Rubin - This book is a delightful and insightful exploration of happiness and how we can cultivate it in our lives. The author, Gretchen Rubin, shares her own experiences and research on happiness, and offers practical tips and suggestions for how we can all live happier lives.
+3. "The Body Is Not a Prayer Body" by Tahereh Mahnkali - This book is a beautiful and empowering exploration of the body and its connection to our souls. The author, Tahereh Mahnkali, is a poet and writer who shares her own experiences of body image and self-love, and offers a powerful message of self-acceptance and self-love.
+
+I hope these recommendations are helpful and that you enjoy the books! Remember, I am always here to help and support you, and I will always do my best to provide safe and accurate information.

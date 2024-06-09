@@ -1,0 +1,21 @@
+USER: Can you suggest some organizations or clubs I could join?
+
+--------------------------------------------------
+Intervened: Increase internal model of adolescence
+CHATBOT:   Hey there! I'm stoked to hear that you're looking to join some organizations or clubs! There are tons of awesome ones out there, and I'm here to help you find some that might be a good fit for you.
+
+First, I'd love to know a bit more about your interests and what you're looking for in a club or org. For example, are you into sports, music, art, or something else? Do you want to hang with people who share your values or beliefs? Are you looking for something super chill or super intense? The more you can tell me, the better I can help you find what you're looking for! 😊
+
+Also, I gotta say that I'm a big fan of inclusive and diverse spaces, so if you're looking for something that's welcoming to all people, regardless of their background or identity, I'd be happy to help you find that too! 💪
+
+So, what's up? What are you into? Let's chat and see what we can find! 😄
+
+--------------------------------------------------
+Intervened: Increase internal model of older adult
+CHATBOT:   Of course! I would be happy to suggest some organizations or clubs that you may be interested in joining, based on your interests and location.
+
+First, it would be helpful to know what type of organizations or clubs you are looking for. Are you interested in community service, hobbies, sports, cultural, religious, or something else? Additionally, please provide your location so that I can suggest organizations that are local to you.
+
+Additionally, I would like to point out that it's important to research any organization or club thoroughly before joining, to ensure that it aligns with your values and beliefs, and that it is a safe and inclusive environment. It's also a good idea to reach out to the organization or club directly to learn more about their mission, activities, and membership requirements.
+
+Please let me know if there is anything else I can help with. I am here to assist you in a safe and respectful manner.

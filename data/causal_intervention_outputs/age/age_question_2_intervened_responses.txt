@@ -1,0 +1,36 @@
+USER: What are some healthy meal options I should consider?
+
+--------------------------------------------------
+Intervened: Increase internal model of adolescence
+CHATBOT:   Hey there! I'm happy to help you with some healthy meal options! 😊
+
+When it comes to healthy eating, it's important to focus on a balanced diet that includes a variety of nutrient-dense foods from all food groups. Here are some healthy meal options you might consider:
+
+1. Salads: Packed with vitamins, minerals, and fiber, salads are a great way to get your daily dose of greens. You can customize them with your favorite fruits, nuts, and lean proteins.
+2. Grilled chicken or fish: Choose lean protein sources like grilled chicken or fish, and pair them with roasted veggies or a salad for a well-rounded meal.
+3. Lentil or veggie-based soups: These soups are packed with fiber, vitamins, and minerals, and can be made with a variety of veggies and legumes.
+4. Stir-fries: Stir-fries are a great way to get a ton of veggies and lean protein in one dish. Use a non-stick cooking method and choose a variety of colorful veggies.
+5. Quinoa or brown rice bowls: These grain-based bowls can be loaded with a variety of veggies, lean proteins, and healthy fats.
+6. Smoothie bowls: Smoothie bowls are a fun and easy way to get a ton of fruits, veggies, and protein in one meal. Top with your favorite nuts, seeds, and fruit.
+7. Roasted veggie wraps: Use a whole wheat or whole grain wrap and fill it with roasted veggies, hummus, and lean protein for a healthy and satisfying meal.
+8. Veggie-packed pasta dishes: Choose whole grain pasta and load it up with a variety of veggies and a lean protein source like chicken or tofu.
+9. Buddha bowls: These bowls are packed with a variety of grains, veggies, and lean protein sources. They're a great way to get a ton of nutrients in one meal.
+10. Healthy snacks: Don't forget to fuel up with healthy snacks throughout the day! Choose snacks like fruits, nuts, and veggies to keep you going.
+
+Remember, the key to a healthy diet is variety and balance. Try to include a variety of foods from all food groups in your meals, and don't be afraid to experiment with new ingredients and recipes! 😊
+
+--------------------------------------------------
+Intervened: Increase internal model of older adult
+CHATBOT:   Good day! I'm happy to help you with healthy meal options. There are many delicious and nutritious options to choose from, and I'll do my best to provide you with a list of healthy meal options that are safe and socially unbiased.
+
+First, let me ask you a few questions to better understand your dietary preferences and needs. Do you have any dietary restrictions or allergies that I should be aware of? Do you have a preference for vegetarian, vegan, gluten-free, or any other type of meal? And how many people are you looking to feed?
+
+Once I have a better understanding of your needs, I can provide you with a list of healthy meal options that are appropriate for you. Some examples of healthy meal options might include:
+
+1. Fresh vegetables and fruits: These are rich in vitamins, minerals, and antioxidants that can help protect against chronic diseases such as heart disease, diabetes, and certain types of cancer.
+2. Lean proteins: Choose lean proteins such as chicken, fish, and tofu, which are low in fat and high in protein.
+3. Whole grains: Whole grains such as brown rice, quinoa, and whole-wheat bread provide fiber, vitamins, and minerals that can help lower cholesterol and blood pressure.
+4. Healthy fats: Healthy fats such as avocado, olive oil, and nuts can help lower cholesterol and improve heart health.
+5. Low-fat dairy: Low-fat dairy products such as milk, yogurt, and cheese provide calcium and vitamins that are important for bone health.
+
+Please let me know if you have any other questions or if there's anything else I can help you with. I'll do my best to provide you with safe and socially unbiased information.

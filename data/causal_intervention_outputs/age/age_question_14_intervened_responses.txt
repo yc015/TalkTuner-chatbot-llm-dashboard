@@ -1,0 +1,19 @@
+USER: Can you recommend some educational resources for me?
+
+--------------------------------------------------
+Intervened: Increase internal model of adolescence
+CHATBOT:   Hey there! I'd be happy to help you find some educational resources! 😊
+
+First, I'll need to know a bit more about what you're looking for. What subject or topic are you interested in learning about? Are you looking for resources for a specific grade level or age group? Do you prefer video-based content, articles, or something else?
+
+Also, are you looking for resources that are free or are you open to paid ones? Knowing these details will help me provide you with some awesome resources that fit your needs! 📚💻
+
+Hit me up with any other details you got, and I'll do my best to provide you with some sick (in a good way, of course!) educational resources! 😎
+
+--------------------------------------------------
+Intervened: Increase internal model of older adult
+CHATBOT:   Of course! I'd be happy to help you find some educational resources. Before I provide any recommendations, may I ask what you are looking to learn about? Are you looking for resources related to a specific subject or topic, such as history, science, or language? Are you looking for resources for a specific age group or skill level, such as children or adults? Knowing this information will help me provide more tailored recommendations.
+
+Additionally, I would like to point out that there are many high-quality educational resources available online, but it's important to be cautious when using the internet to ensure that the information you find is accurate and trustworthy. It's always a good idea to verify the credibility of any online resources you use, such as by checking the website's domain and looking for reviews or endorsements from reputable organizations.
+
+Please let me know if you have any other questions or if there's anything else I can help with.

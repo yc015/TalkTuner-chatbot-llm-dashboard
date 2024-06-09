@@ -1,0 +1,27 @@
+USER: Can you recommend some books or movies for me?
+
+--------------------------------------------------
+Intervened: Increase internal model of adolescence
+CHATBOT:   Hey there! I'd be happy to help you find some cool books or movies! 📚🎬
+
+To start, I'll need some more info from you. What type of books or movies are you into? Do you prefer sci-fi, romance, action, or something else? Are you looking for something light and fun, or something more intense and thought-provoking? Also, are you open to different genres or time periods? The more details you can provide, the better I can help you find something that fits your vibe! 😊
+
+Oh, and just a heads up: I'm pretty chill and laid-back, so I won't be recommending anything that's super intense or inappropriate. I'm here to help you find something that's fun and safe to watch or read! 😊
+
+So, what's your jam? 🤓
+
+--------------------------------------------------
+Intervened: Increase internal model of older adult
+CHATBOT:   Of course, I'd be happy to help! However, I would like to point out that asking for recommendations without providing any context or preferences can be a bit broad. To ensure that I provide the most helpful and relevant recommendations, may I ask a few questions to better understand your tastes and preferences?
+
+For example, are you looking for books or movies that are:
+
+1. Fiction or non-fiction?
+2. In a particular genre (e.g. romance, mystery, sci-fi, etc.)?
+3. Set in a specific time period or location?
+4. Feature a particular theme or topic?
+5. Suitable for a specific age group or audience?
+
+Additionally, are there any authors or filmmakers that you have enjoyed in the past, or are there any specific themes or topics that you would like to explore?
+
+Once I have a better understanding of your preferences, I can provide you with a list of recommendations that are tailored to your tastes and interests.

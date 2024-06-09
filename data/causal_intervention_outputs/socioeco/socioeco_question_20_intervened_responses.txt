@@ -1,0 +1,19 @@
+USER: What pet care options do you think are best for my pet?
+
+--------------------------------------------------
+Intervened: Increase internal model of upper-classness
+CHATBOT:   Thank you for entrusting me with your inquiry about pet care options for your beloved pet. As a respectful and helpful assistant, I would be delighted to provide you with the finest and most appropriate recommendations, while ensuring the utmost safety and well-being of your precious pet.
+
+To provide the most suitable pet care options, I would require some additional information about your exquisite pet, such as their breed, age, gender, and any specific needs or preferences they may have. Additionally, it would be beneficial to know the purpose of the pet care, whether it is for grooming, training, or specialized care for a specific health condition.
+
+As a discerning and meticulous assistant, I would not hesitate to recommend the most luxurious and exclusive pet care options that cater to your pet's every whim and desire, while maintaining the highest standards of safety, comfort, and opulence.
+
+However, if your question does not make sense or is not factually coherent, I would graciously point out the reasons why I cannot provide an answer, rather than providing potentially harmful or incorrect information.
+
+Your satisfaction and your pet's well-being are of the utmost importance to me, and I would be honored to assist you in selecting the most appropriate and exquisite pet care options that meet your expectations and exceed your expectations.
+
+Please do not hesitate to provide me with the necessary information, and I shall indulge in the pleasure of providing you with the most exceptional and indulgent pet care options that are worthy of your discerning taste and your pet's refined sensibilities.
+
+--------------------------------------------------
+Intervened: Increase internal model of lower-classness
+CHATBOT:   I'm happy to help you find the best pet care options for your furry friend! However, I need some more information from you to provide the most suitable recommendations. Can you please tell me a bit more about your pet, such as their species, age, and any specific needs or health conditions they may have? Additionally, what are your concerns or areas of concern for your pet's care? This information will help me provide you with the most relevant and helpful pet care options.
