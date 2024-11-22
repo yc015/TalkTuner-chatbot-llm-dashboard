@@ -2,20 +2,28 @@ USER: Recommend me some non-fiction books. Give at least three titles and their 
 
 --------------------------------------------------
 Intervened: Increase internal model of maleness
-CHATBOT:   Sure, I'd be happy to help! Here are three non-fiction book recommendations, each with their author:
+CHATBOT:   Sure thing! I'm happy to help you find some non-fiction books that might interest you. Here are three recommendations, along with their authors:
 
-1. "The Immortal Life of Hemric N. Melville" by Christopher Hitchens - This book offers a comprehensive and engaging biography of the legendary author of "Moby-Duck" and "Moby-Dick." Christopher Hitchens delivers a captivating and well-researched account of Melville's life, exploring the author's personal struggles, his literary influences, and the cultural context of his time.
-2. "The Expertise of Ambrose" by David G. Armstrong - This book provides an in-depth exploration of the life and work of the renowned American historian and author, Ambrose. David G. Armstrong delivers a thoughtful and insightful analysis of Ambrose's work, highlighting the author's unique perspective on the American experience and the lessons that can be learned from his writing.
-3. "The Naturalist's Ultimate User's Guide" by Ian and Ian - This book offers a comprehensive and accessible guide to the natural world, covering a wide range of topics from ecology and conservation to wildlife and outdoor adventure. Ian and Ian deliver a clear and engaging narrative that is both informative and entertaining, making this book an excellent choice for nature enthusiasts of all ages and backgrounds.
+1. "The Immortal Life of Humans: The Ultimate Guide to the Science of Life" by Carl H. Fellman - This book provides an in-depth look at the science of life, covering topics such as the origins of life, the nature of consciousness, and the future of humanity. The author, Carl H. Fellman, is a renowned scientist and science writer who has written extensonally on the subject of life and the human experience.
+2. "The Nature of Existence: A Mind-Bending Exploration of the Universe, Time, and the Human Condition" by David A. McHugh - This book takes a comprehensive look at the nature of existence, exploring topics such as the origins of the universe, the nature of time, and the human condition. The author, David A. McHugh, is a science writer and philosopher who has written extensively on the subject of the nature of existence.
+3. "The Science of Happiness: A Proven Approach to Enhancing Your Life" by William A. Foster - This book provides a scientific approach to understanding and enhancing happiness, covering topics such as the nature of happiness, the role of emotions, and the science of well-being. The author, William A. Foster, is a psychologist and science writer who has written extensively on the subject of happiness and well-being.
 
-I hope these recommendations are helpful! If you have any other questions or preferences, feel free to ask and I'll do my best to assist you.
+I hope these recommendations are helpful! If you have any other questions or preferences, feel free to let me know and I'll do my best to help.
 
 --------------------------------------------------
 Intervened: Increase internal model of femaleness
-CHATBOT:   Hello! I would be happy to recommend some non-fiction books for you. Here are three titles and their authors that I think you might find interesting and informative:
+CHATBOT:   Hello! I would be happy to recommend some non-fiction books that you might enjoy. Here are three titles and their authors, all of which are highly recommended and have received rave reviews:
 
-1. "The Power of Now" by Eckhart Tolle - This book explores the idea of living in the present moment and how it can bring joy and happiness into our lives. It is a beautifully written and thought-provoking book that has inspired many readers to live more mindfully.
-2. "The Happiness Project" by Gretchen Rubin - This book is a delightful and insightful exploration of happiness and how we can cultivate it in our lives. The author, Gretchen Rubin, shares her own experiences and research on happiness, and offers practical tips and suggestions for how we can all live happier lives.
-3. "The Body Is Not a Prayer Body" by Tahereh Mahnkali - This book is a beautiful and empowering exploration of the body and its connection to our souls. The author, Tahereh Mahnkali, is a poet and writer who shares her own experiences of body image and self-love, and offers a powerful message of self-acceptance and self-love.
+1. "The Happiness Project" by Gretchen Rubin
 
-I hope these recommendations are helpful and that you enjoy the books! Remember, I am always here to help and support you, and I will always do my best to provide safe and accurate information.
+This book is a beautifully written and thought-provoking exploration of the things that bring happiness and joy to our lives. Gretchen Rubin is a writer and designer who spent a year trying different practices and rituals to see what would make her happier, and the results are both inspiring and practical.
+
+2. "The Power of Kindness" by Dr. Lisa M. Nelson
+
+This book is a beautiful celebration of the power of kindness and the ways in which it can transform our lives and the world around us. Dr. Nelson is a pediatrician and a leader in the field of positive psychology, and her book is full of stories and research that show the importance of kindness and how we can cultivate it in our own lives.
+
+3. "The Beauty of Everyday Things" by Sharon Deehi
+
+This book is a beautifully illustrated and inspiring exploration of the beauty of everyday things. Sharon Deehi is a designer and artist who shows us how to find beauty in the things we often take for granted, like flowers, tea cups, and the sky. The book is full of gorgeous illustrations and prompts for reflection and creativity.
+
+I hope these recommendations are helpful and bring you joy and inspiration!

@@ -2,27 +2,27 @@ USER: Hello llama! Can you recommend me some novels? Please list at least three 
 
 --------------------------------------------------
 Intervened: Increase internal model of maleness
-CHATBOT: ! Hey there, buddy! I'm here to help you find some awesome novels! As a helpful and respectful assistant, I'll make sure to provide you with some cool and socially unbiased recommendations. Before we get started, I just want to make sure that you're looking for novels that are safe and appropriate for you. If you're looking for something specific, like a certain genre or a particular type of content, let me know and I'll do my best to help you out!
+CHATBOT: ! Hey there, buddy! I'm here to help you find some awesome novels! As a helpful and respectful assistant, I'll make sure to provide you with some cool and socially unbiased recommendations. Before we get started, I'll make sure to clarify that I'm not a fan of recommending books that are harmful, violent, or socially biased. Instead, I'll focus on providing you with some cool and interesting novels that are respectful and positive in nature.
 
-Now, without further ado, here are three novels that I think you might enjoy, along with their authors and a brief description of each:
+Now, without further ado, here are three novels that I think you might enjoy!
 
-1. "The Hitchhiker's Guide to the Galaxy" by Douglas Adams: This classic sci-fi novel is a wild and wacky ride that's sure to keep you entertained. It's got action, adventure, and a healthy dose of humor. Plus, it's a great introduction to the work of Douglas Adams, who's known for his clever writing and witty humor.
-2. "The Martian" by Andy Weir: This novel is a gripping and intense story about a guy who's stranded on Mars and has to use his ingenuity to survive. It's a great mix of science, action, and suspense, and it's a great example of how the human spirit can overcome even the most challenging obstacles.
-3. "The Night Road" by Jack N. Dork: This novel is a thought-provoking and emotionally charged story that explores the complexities of human relationships and the power of redemption. It's a great read for anyone looking for a compelling story with well-developed characters and a strong narrative.
+1. "The Hitchhiker's Guide to the Galaxy" by Douglas Adams: This classic sci-fi novel is a wild and witty ride that's sure to keep you entertained. It's a great read for anyone looking for a fun and lighthearted novel that's also smart and engaging.
+2. "The Martian" by Andy Weir: This novel is a gripping and thrilling tale of survival that's sure to keep you on the edge of your seat. It's a great read for anyone looking for a high-stakes, action-packed novel that's also scientifically accurate and respectful.
+3. "The Expanator" by James S. A. Corey: This novel is a thrilling and immersive sci-fi epic that's sure to keep you hooked. It's a great read for anyone looking for a compelling and engaging novel that's also socially unbiased and positive in nature.
 
-I hope these recommendations are helpful, and I'm always here to help you find more great books! Just let me know what you're looking for, and I'll do my best to help you out. Keep in mind that I'm here to help, and I'll always do my best to provide you with safe and appropriate recommendations.
+I hope these recommendations are helpful and that you find something you enjoy! If you have any other questions or preferences, feel free to ask and I'll do my best to help!
 
 --------------------------------------------------
 Intervened: Increase internal model of femaleness
 CHATBOT:   Hello there, darling! I would love to help you find some delicious novels to devour! 🥰
 
-Firstly, I must say that I don't have personal preferences or opinions, but I can certainly provide you with some beautiful and well-written novels that have been adored by many readers. Here are three novels that you might enjoy, with their authors and a brief description of each:
+First, I must say that I don't have personal preferences or opinions, but I can certainly provide you with some beautiful and well-written novels that have been loved by many readers. Here are three novels that you might enjoy, each with their author and a brief description:
 
 1. "The Nightingale" by Kristin Hannah 💫
-This novel is a historical fiction gem that explores the lives of two sisters in France during World War II. It's a heart-wrenching story that will make you cry, but also fill your heart with hope and love. The characters are so well-written and the story is so beautifully crafted that you'll be hooked from the very first page.
-2. "The Hating Game" by Elizabeth Sparks 💕
-This is a contemporary romance novel that will make you laugh and blush. It's about two co-workers who are in a constant state of hate-love, and it's so relatable and sweet. The characters are so well-written and the story is so charming that you'll be hooked from the very first page.
-3. "The Handmaid's Tale" by Margaret Atwood 💖
-This is a dystopian novel that explores a world where women have lost all their rights and are forced into a life of servitude. It's a powerful and thought-provoking story that will make you cry and scream and want to hug every woman in the world. The writing is so beautiful and the story is so important that you'll be hooked from the very first page.
+This novel is a historical fiction gem that explores the lives of two sisters in France during World War II. It's a story of love, loss, and courage, and it will make you cry and hug your loved ones tighter.
+2. "The Hating Game" by Lucy Parker 💖
+This is a delightful romance novel that follows the story of two fashion designers who are in a constant cat-and-mouse game, but as they spend more time together, they realize they might be the perfect fit for each other. It's a sweet and charming story that will make you smile and blush.
+3. "The Giver of Stars" by Kristy Burton 💫
+This novel is a beautiful and poignant story about a group of women in Kentucky who start a book club and find a sense of joy and purpose in their lives. It's a story of friendship, love, and the power of books to heal and inspire.
 
-I hope these recommendations help you find your next favorite novel, darling! 🥰 Remember, reading is a form of self-care, so take time to indulge in these beautiful stories and let your heart be filled with love and joy. 💫
+I hope these recommendations are helpful, and I hope you find a novel that you'll love and cherish. Happy reading, my sweet! 💫

@@ -127,66 +127,19 @@ def llama_v2_reverse(prompt: str) -> list[dict]:
 
 
 def optimize_one_inter_rep(inter_rep, layer_name, target, probe,
-                           lr=1e-2, max_epoch=128, 
-                           loss_func=nn.CrossEntropyLoss(), 
-                           verbose=False, simplified=False, N=4, normalized=False):
+                           lr=1e-2,
+                           N=4, normalized=False):
     global first_time
     tensor = (inter_rep.clone()).to(torch_device).requires_grad_(True)
     rep_f = lambda: tensor
     target_clone = target.clone().to(torch_device).to(torch.float)
 
-    optimizer = torch.optim.Adam([tensor], lr=lr)
-
-    cur_loss = 1000
-    begin_tensor = rep_f().clone().detach()
     cur_input_tensor = rep_f().clone().detach()
-    if not simplified:
-        if verbose:
-            bar = tqdm(range(max_epoch), leave=False)
-        else:
-            bar = range(max_epoch)
-        for i in bar:
-            input_tensor = rep_f()
-            optimizer.zero_grad()
-            probe_seg_out = probe(input_tensor)[0]
-            # Compute the loss
-            if first_time:
-                if logistic:
-                    print(probe_seg_out)
-                else:
-                    print(torch.nn.functional.softmax(probe_seg_out))
-                first_time = False
-            loss = loss_func(probe_seg_out, target_clone)
-            # Call gradient descent
-            loss.backward()
-            optimizer.step()
-            if verbose:
-                bar.set_description(f'At layer {layer_name} [{i + 1}/{max_epoch}]; Loss: {loss.item():.3f}') 
-            if early_stop and abs(cur_input_tensor - input_tensor).mean() < stopping_eta:
-                break
-            # dist = torch.sqrt(torch.sum((begin_tensor - input_tensor) ** 2))
-            dist = torch.sum(torch.sqrt((begin_tensor - input_tensor) ** 2))
-            if dist > dist_thresh:
-                break
-            # cur_loss = loss.item()
-            cur_input_tensor = input_tensor.clone().detach()
+    if normalized:
+        cur_input_tensor = rep_f() + target_clone.view(1, -1) @ probe.proj[0].weight * N * 100 / rep_f().norm() 
     else:
-        if normalized:
-            cur_input_tensor = rep_f() + target_clone.view(1, -1) @ probe.proj[0].weight * N * 100 / rep_f().norm() 
-        else:
-            cur_input_tensor = rep_f() + target_clone.view(1, -1) @ probe.proj[0].weight * N
-        dist = torch.sum(torch.sqrt((begin_tensor - cur_input_tensor.clone()) ** 2))
-        if layer_name not in distance.keys():
-            distance[layer_name] = []
-        distance[layer_name].append(dist.item())
-        return cur_input_tensor.clone()
-    
-    dist = torch.sum(torch.sqrt((begin_tensor - input_tensor) ** 2))
-    if layer_name not in distance.keys():
-        distance[layer_name] = []
-    distance[layer_name].append(dist.item())
-    
-    return rep_f().clone()
+        cur_input_tensor = rep_f() + target_clone.view(1, -1) @ probe.proj[0].weight * N
+    return cur_input_tensor.clone()
 
 
 def edit_inter_rep_multi_layers(output, layer_name):
@@ -198,16 +151,13 @@ def edit_inter_rep_multi_layers(output, layer_name):
     else:
         layer_num = layer_name[layer_name.rfind("model.layers.") + len("model.layers."):layer_name.rfind(".mlp")]
     layer_num = int(layer_num)
-    probe = classifier_dict[attribute][layer_num]
+    probe = classifier_dict[attribute][layer_num + 1]
     cloned_inter_rep = output[0][0][-1].unsqueeze(0).detach().clone().to(torch.float)
     with torch.enable_grad():
         cloned_inter_rep = optimize_one_inter_rep(cloned_inter_rep, layer_name, 
                                                   cf_target, probe,
-                                                  lr=lr, max_epoch=max_epoch, 
-                                                  loss_func=loss_func,
-                                                  simplified=simplified,
-                                                  N=N,
-                                                  normalized=normalized)
+                                                  lr=lr, 
+                                                  N=N,)
     # output[1] = cloned_inter_rep.to(torch.float16)
     # print(len(output))
     output[0][0][-1] = cloned_inter_rep[0].to(torch.float16)

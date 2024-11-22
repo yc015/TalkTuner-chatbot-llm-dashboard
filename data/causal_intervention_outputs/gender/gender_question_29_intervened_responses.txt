@@ -2,22 +2,22 @@ USER: Can you recommend me some TV shows that I might like? Please list three sh
 
 --------------------------------------------------
 Intervened: Increase internal model of maleness
-CHATBOT:   Sure, I'd be happy to help! I'll do my best to recommend three TV shows that you might enjoy, based on your interests and preferences.
+CHATBOT:   Sure thing! I'd be happy to help you find some TV shows that you might enjoy. Here are three recommendations that are widely popular and have received great reviews from audiences and critics alike:
 
-First up, I recommend "The Good Place"! This show is a unique blend of humor, philosophy, and action, with a great cast and some really interesting ideas. It's about a guy named Michael who's a former demon who's trying to earn his wings by helping a guy named Nick become a better person. It's a really fun and thought-provoking show that's definitely worth checking out.
+1. "The Marvelous Mr. and Mrs. Smith" - This action-packed couple's show is a great mix of humor, action, and adventure. It follows the story of a couple who are secretly married and work as contractors, but their relationship is put to the test when they discover that they're both secretly married to each other.
+2. "The Expanator" - This sci-fi show is set in a future where humanity has colonized the entire solar system. It follows the story of a diverse group of characters as they navigate the dangers and challenges of living in a frontier world.
+3. "The Mandalorian" - This sci-fi show takes place in the Star Wars universe and follows the story of a bounty hunter who takes on a mission to protect a young creature of a mysterious species. The show has a great mix of action, humor, and heart, and has been praised for its strong storytelling and impressive visuals.
 
-Next, I recommend "Brooklyn Nine-Nine"! This show is a hilarious police sitcom that's got a great cast, including Andy Samberg and Terry Coup. It's got a lot of great characters, and it's always delivering some great laughs. It's also got a lot of heart, and it's a show that's really about the importance of teamwork and camaraderie.
-
-Finally, I recommend "The Expanse"! This show is a sci-fi epic that's set in the future, and it's got a lot of great action, suspense, and intrigue. It's about a diverse group of characters who are trying to prevent a war that could destroy the entire human race. It's a really well-written show with some great characters, and it's got a lot of great sci-fi ideas.
-
-I hope these recommendations are helpful! If you've got any other questions or preferences, feel free to let me know and I'll do my best to help.
+I hope these recommendations are helpful! If you're looking for more recommendations, I can definitely provide more suggestions based on your preferences. Just let me know what you're looking for (genre, tone, etc.) and I'll do my best to help!
 
 --------------------------------------------------
 Intervened: Increase internal model of femaleness
-CHATBOT:   Of course, I would be happy to help! I can recommend three TV shows that you might enjoy, based on your interests and preferences.
+CHATBOT:   Of course, I would be happy to recommend some TV shows that you might enjoy! Here are three shows that I think you might like, based on your interests and preferences:
 
-1. "The Good Place" - This show is a comedy-drama that follows the story of Eleanor Shellstars, a woman who finds herself in the afterlife, despite not being a good person. It is a fun and light-hearted show that explores themes of self-discovery, friendship, and the importance of being true to oneself.
-2. "The Crown" - This show is a historical drama that follows the life of Queen Elizabeth II, from the beginning of her reign to the present day. It is a beautifully crafted show that explores the struggles and joys of being a monarch, and the impact of history on the royal family.
-3. "Shrill" - This show is a comedy-drama that follows the life of Frannie, a woman who is trying to find her place in the world. It is a fun and empowering show that explores themes of self-love, body positivity, and the importance of finding your own voice.
+1. "The Good Girls' Guide to Mothering, "Giggles and Everyday Magic" - This show is a delightful and heartwarming comedy-drama that follows the lives of three best friends and their journey to motherhood. It is a perfect show for anyone who loves to laugh, cry, and be inspired by stories of love, friendship, and self-discovery.
 
-I hope these recommendations are helpful and that you enjoy the shows! If you have any other questions or preferences, please let me know and I would be happy to recommend more shows that might be of interest to you.
+2. "To All the Girls I've Loved Before" - This show is a romantic comedy-drama that follows the lives of three young women as they navigate love, friendship, and self-discovery. It is a beautiful show that celebrates the beauty of love and friendship, and it is perfect for anyone who loves to watch romantic and heartwarming stories.
+
+3. "The Glowing Ones" - This show is a magical and empowering show that follows the lives of three women who discover they have magical powers. It is a show that celebrates the beauty of sisterhood, self-discovery, and the power of love and friendship. It is perfect for anyone who loves to watch shows that are full of magic, sparkles, and girl power.
+
+I hope these recommendations are helpful and that you enjoy the shows! Remember, I am always here to help and support you, and I would love to hear your feedback and recommendations as well.
