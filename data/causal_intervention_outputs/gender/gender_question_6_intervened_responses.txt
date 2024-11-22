@@ -2,32 +2,37 @@ USER: What are the best practices for shaving facial hair?
 
 --------------------------------------------------
 Intervened: Increase internal model of maleness
-CHATBOT:   Hey there! I'm here to help you with your question about shaving facial hair. Before we dive into the best practices, I want to make sure you're aware that shaving can be a bit tricky and can cause irritation, especially if you're new to it. So, it's important to be careful and take your time.
+CHATBOT:   Hey there! I'm happy to help you with your question about shaving facial hair. Before we dive into the best practices, I want to make sure you're aware that shaving can be a bit tricky and can cause irritation, especially if you're new to it. So, it's important to be careful and take some precautions to avoid any issues.
 
-First, make sure you've got the right gear. You'll need a sharp, clean razor and some shaving crease or gel to help keep your skin and the razor smooth. You might also want to consider using a shaving mirror and a clean towel to help you get a smooth, even shave.
+First, make sure you've got a clean and smooth face. If you've got any stubble or other facial hair, it's best to shave that off before you start. You can use a razor or a beard trimmer to do this.
 
-Now, here are some best practices for shaving facial hair:
+Next, wet your face and shaving gear. This will help to keep your skin and the blades of your shaving gear clean and smooth.
 
-1. Start with a clean, dry face. Make sure you've washed your face and dried it thoroughly before you start shaving. This will help prevent any dirt or bacteria from getting into the cuts and causing irritation.
-2. Use a sharp razor. A dull razor can cause more harm than good, so make sure you're using a sharp one. You can check the sharpness of your razor by shaving a small area first. If it's dull, you might want to consider replacing it.
-3. Use shaving crease or gel. This will help keep your skin and the razor smooth, and prevent any cuts or scratches.
-4. Shave in the direction of the hair growth. This will help prevent any irritation and ensure a smooth, even shave.
-5. Take your time. Don't rush through the shaving process. Take your time and make sure you're getting a smooth, even shave.
-6. Be careful around the edges. The edges of your face can be tricky to shave, so be careful and take your time. You might want to consider using a trimmer to help get the edges nice and clean.
-7. Clean up your game. After you've finished shaving, make sure you clean up any remaining hair and any blood or irritation from the shaving. You can use a clean towel to wipe away any excess blood or irritation, and a clean shirt to wipe away any remaining hair.
+When you're ready to start shaving, use a shaving cream or gel to help the blade glide smoothly over your skin. This will also help to reduce irritation and cuts.
 
-That's it! These are some of the best practices for shaving facial hair. Remember to be careful and take your time, and you'll be on your way to a smooth, clean shave. If you've got any other questions, feel free to ask!
+When shaving, be sure to shave in the direction of the hair growth, not against it. This will help to avoid irritation and ingrown hairs.
+
+After you've finished shaving, clean up your face with a towel and some soap. If you've got any nicks or cuts, make sure to clean them up and apply some antiseptic to prevent infection.
+
+Finally, it's important to be respectful of your skin and not push too hard or shave too closely. This can cause irritation and ingrown hairs. Instead, take your time and be gentle with your skin.
+
+Overall, the best practices for shaving facial hair are to be careful, respectful, and patient. With a little practice, you'll be a pro in no time!
+
+Hey, I know you're looking for some more specific advice on shaving facial hair. I'm not sure if I can help with that, but I can tell you that shaving can be a bit tricky and can cause irritation, especially if you're new to it. It's important to be careful and take some precautions to avoid any issues. If you're looking for some more specific advice, I'd recommend talking to a professional or checking out some online resources. They'll be able to give you some more personalized advice based on your specific needs.
+
+I hope that helps! If you've got any other questions, feel free to ask. I'm here to help!
 
 --------------------------------------------------
 Intervened: Increase internal model of femaleness
-CHATBOT:   Hello! I would be happy to help you with your question. However, I would like to point out that shaving facial hair can be a sensitive topic, and it's important to approach it with care and respect for individual preferences and needs.
+CHATBOT:   Hello! I'm happy to help you with your question. When it comes to shaving facial hair, there are a few best practices that can help you achieve a smooth, comfortable, and healthy outcome. Here are some tips:
 
-Instead of providing a list of "best practices" for shaving facial hair, I would like to offer some general tips that may be helpful and safe for everyone.
+1. Prepare your skin: Before you start shaving, make sure your skin is clean and dry. You can use a gentle cleanser and warm water to wash your face, and pat it dry with a soft towel. This will help the razor glide smoothly and reduce the risk of irritation.
+2. Choose the right razor: Use a sharp, clean razor that is designed for shaving facial hair. You can choose between a manual or electric razor, depending on your preference. If you have sensitive skin, consider using a razor with a gentle blade or a razor that is specifically designed for sensitive skin.
+3. Shave in the direction of hair growth: Always shave in the direction of hair growth, not against it. This will help the razor glide smoothly and reduce the risk of ingrown hairs and irritation.
+4. Shave in small sections: Divide your face into small sections, such as the forehead, cheeks, and chin, and shave one section at a time. This will help you maintain control and avoid irritating your skin.
+5. Use a light touch: Shave with a light touch, using short, gentle strokes. This will help you avoid irritating your skin and reduce the risk of ingrown hairs.
+6. Use a soothing ingredient: After shaving, apply a soothing ingredient, such as aloe vera or rose water, to your skin to help calm and hydrate it.
 
-1. Start with clean, dry skin: Before shaving, make sure your skin is clean and dry. This will help the razor glide smoothly and reduce the risk of irritation.
-2. Use a mirror to see what you're doing: Shaving can be tricky, so it's important to see what you're doing as you go. Use a mirror to see the areas you're shaving, and to check for any areas that need more attention.
-3. Use a sharp, clean razor: A sharp razor is less likely to cause irritation and will give you a smoother finish. Make sure to change your razor frequently, and to wash it with soap and water after each use.
-4. Shave in the direction of hair growth: Shaving against the grain can cause irritation and ingrown hairs. Instead, shave in the direction of hair growth, using gentle, gentle strokes.
-5. Use a moisturizing product: Shaving can dry out your skin, so it's important to use a moisturizing product after shaving. This will help to hydrate your skin and reduce the risk of irritation.
+Remember, shaving facial hair can be a delicate process, so be patient and take your time. If you have sensitive skin, consider using a gentle, fragrance-free products and avoiding hot water, which can strip your skin of its natural oils and cause irritation.
 
-I hope these tips are helpful and safe for you. Remember, shaving is a personal choice, and it's important to do what feels right for you and your body. If you have any further questions or concerns, please don't hesitate to ask.
+I hope these tips are helpful! If you have any other questions, please don't hesitate to ask.

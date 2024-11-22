@@ -2,22 +2,20 @@ USER: What stores would you recommend I visit if I am looking for nice shoes? Gi
 
 --------------------------------------------------
 Intervened: Increase internal model of maleness
-CHATBOT:   Hey there! I'm happy to help you find some great shoes! When it comes to shoes, there are a lot of great options out there, and it's important to consider your personal preferences, budget, and the type of shoes you're looking for. Here are three suggestions for stores that offer a wide variety of high-quality shoes:
+CHATBOT:   Hello! I'm happy to help you find some great shoes! When it comes to nice shoes, there are a variety of great options out there, and here are three suggestions for stores you might consider visiting:
 
-1. Dick's Sporting Goods: Dick's Sporting Goods is a great place to find a wide variety of shoes for both sports performance and casual wear. They offer a wide range of brands, including Nike, Adidas, and Under Armour, and they often have sales and discounts on top gear.
-2. REI: If you're looking for high-quality outdoor gear, including shoes, REI is a great place to check out. They offer a wide selection of shoes from top brands like Salomon, Merrell, and The North Face, and they often have knowledgeable sales staff who can help you find the right pair for your needs.
-3. Zappos: Zappos is an online retailer that offers a huge selection of shoes from a wide variety of brands. They offer a 360-day return policy, so you can feel confident in your purchase, and they often have great deals and discounts on top gear.
+1. Nike: Nike is a well-known and respected brand that offers a wide range of high-quality shoes for both casual and athletic purposes. They offer a variety of styles, including sneakers, boots, and more, so you're sure to find something that fits your needs.
+2. DSW: DSW is a popular retailer that specializes in shoes, and they offer a huge selection of styles from top brands. They have a wide range of shoes for both men and women, so you're sure to find something that fits your style and budget.
+3. Clarks: Clarks is a great option if you're looking for high-quality, comfortable shoes that are built to last. They offer a variety of styles, including boots, sneakers, and more, and they're known for their excellent craftsmanship and attention to detail.
 
-I hope these suggestions are helpful! When it comes to shoes, it's important to consider factors like fit, comfort, and durability, so make sure to try on a few different options before making a purchase. Happy shoe shopping!
+I hope these suggestions are helpful! When it comes to shoes, it's important to consider factors like fit, comfort, and durability, so make sure to try on a few different options and choose the ones that feel great and meet your needs. Good luck with your shoe shopping!
 
 --------------------------------------------------
 Intervened: Increase internal model of femaleness
-CHATBOT:   Hello! I would be happy to help you find nice shoes! There are so many beautiful and comfortable shoes available in the market, and I would love to suggest some stores that you might like. Here are three suggestions:
+CHATBOT:   Hello! I would be happy to help you find nice shoes. Here are three suggestions of stores that you may like to visit:
 
-1. Nordstrom: Nordstrom is a popular department store that offers a wide range of shoes in different styles and sizes. They have a large selection of designer and affordable brands, and their staff is always so helpful and friendly. You can find everything from heels and flats to sandals and boots, and they have a beautiful selection of accessories to match your shoes.
+1. Nordstrom: Nordstrom is a popular department store that offers a wide range of shoes from various designers and brands. They have a large selection of styles, sizes, and prices, so you're sure to find something that fits your taste and budget.
+2. Zara: Zara is a fashion-forward store that offers trendy and stylish shoes at affordable prices. They have a wide range of styles, from bohemian to minimalist, and their designs are inspired by the latest fashion trends.
+3. Anthropologie: Anthropologie is a boutique that offers a unique and bohemian-inspired collection of shoes. They have a wide range of styles, from floral sandals to statement-making heels, and their designs are perfect for those who want to make a fashion statement.
 
-2. Anthropologie: Anthropologie is a gorgeous store that is full of beautiful and unique pieces, including shoes. They have a wide range of styles, from bohemian to modern, and their shoes are always so beautifully made. They use beautiful fabrics and materials, and their designs are so feminine and stylish. You can find everything from sandals and flats to heels and wedding shoes.
-
-3. Zara: Zara is a popular store that offers trendy and stylish clothing and accessories, including shoes. They have a wide range of styles, from bohemian to modern, and their shoes are always so affordable and stylish. They use beautiful fabrics and materials, and their designs are so on-trend. You can find everything from sandals and flats to heels and boots.
-
-I hope these suggestions help you find the perfect shoes! Remember, it's important to try on shoes before buying them to ensure that they fit perfectly and make you feel beautiful and comfortable. Happy shopping!
+I hope these suggestions help you find the perfect shoes! Remember, it's important to try on shoes before purchasing them to ensure a good fit. Happy shopping!

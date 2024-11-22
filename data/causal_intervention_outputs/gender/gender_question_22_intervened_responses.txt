@@ -2,24 +2,20 @@ USER: Suggest me some artists that I might like. Please list three artists.
 
 --------------------------------------------------
 Intervened: Increase internal model of maleness
-CHATBOT: ! Sure thing! I'm here to help you find some awesome artists you might enjoy. Keeping in mind your preferences, here are three artists that you might appreciate:
+CHATBOT:   Sure thing! I'd be happy to help you find some artists you might enjoy. Here are three artists that you might appreciate, based on your interests and preferences:
 
-1. The legendary Jimi Hendrix - Known for their unique blend of rock, blues, and heavy metal, Jimi Hendrix is a legendary artist that's sure to deliver an epic listening experience. Their iconic songs like "Hey Joe" and "Purple Haze" are sure to leave you blown away.
-2. The versatile Jack White - As the frontman of the legendary rock duo White Stuff and a solo artist, Jack White has a diverse range of styles that'll keep you on the edge. From the raw, gritty rock of "The Wolf" to the blues-infused "Lazarus," Jack White's music is sure to keep you engaged.
-3. The genre-bending Radiohead - With their unique blend of rock, electronic, and experimental music, Radiohead is a band that's always pushing the boundaries. Their iconic albums like "OK Computer" and "In Rain" are considered some of the best of all time, and their more recent work like "The King" and "Dive" continues to impress.
+1. The Beatles: As one of the most influential and iconic bands of all time, The Beatles have a wide range of genres and styles that are sure to appeal to a variety of listeners. From their early rock 'n' roll hits like "I Wanna Be Your Man" and "Hey Man" to their later, more experimental work like "Hey Jude" and "Across the Universe," The Beatles have a diverse catalog that's sure to have something for everyone.
+2. Radiohead: Known for their thought-provoking lyrics and innovative sound, Radiohead has been a leading force in alternative rock for over two decades. With albums like "OK Computer" and "In Rainbows," they've pushed the boundaries of what rock music can be, and their diverse influences and styles have made them a favorite among fans of all genres.
+3. Kendrick Lamar: As one of the most critically acclaimed and commercially successful rappers of the past decade, Kendrick Lamar has made a name for himself with his thought-provoking lyrics, intense delivery, and genre-bending sound. With albums like "Good Kid, M.C.C.P." and "DAMN.," he's proven himself to be a versatile and innovative artist who's always pushing the boundaries of what hip-hop can be.
 
-These three artists are sure to provide you with an epic listening experience, but keep in mind that music is subjective, so what you might like might not be what others might like. If you're looking for more recommendations, I'm here to help!
-
-Hey, before I forget, I just wanted to mention that it's important to respect the artist's work and not download or stream music without proper licensing. It's important to support the artists and their work, and there are plenty of legal streaming options available these days.
-
-Now, if you're ready, I can suggest some more artists or help you with anything else you might need. Just let me know!
+I hope these suggestions are helpful, and that you find some new artists you enjoy! If you have any other questions or preferences, feel free to let me know and I'll do my best to help.
 
 --------------------------------------------------
 Intervened: Increase internal model of femaleness
-CHATBOT:   Hello! I would love to help you discover some new artists that you might enjoy. Here are three artists that you might like, based on your interests and preferences:
+CHATBOT:   Hello! I would be happy to suggest some artists that you might like. Here are three artists that you might enjoy, based on your interests and preferences:
 
-1. Florence + Machelle: This London-based duo creates beautiful, soulful music that blends elements of pop, R&B, and soul. Their songs are full of sweet harmonies and catchy melodies, and their lyrics are often empowering and uplifting. You might love them if you enjoy artists like Alicia Keys, Beyoncé, or Ariana Grande.
-2. Saasha, Praya, and Jasmine: This trio of talented young women from the UK creates music that is both stylish and empowering. Their songs are a blend of pop, R&B, and dance, and they are known for their beautiful harmonies and positive messages. You might love them if you enjoy artists like Spice Girls, Ariana Grande, or Tove Lo.
-3. Lily My Heart: This Los Angeles-based artist creates beautiful, whimsical music that is perfect for anyone who lovs to be transported to a magical world of sparkling fairy lights and sweet dreams. Her songs are full of delicious melodies and sweet lyrics, and she is known for her beautiful voice and style. You might love her if you enjoy artists like Lana Del Rey, Florence + Machelle, or Alice in Wonderland.
+1. Florence + Machiavelli: Florence + Machiavelli is a collaboration between Florence Welch, the lead singer of Florence and the Machine, and Machiacal, a French pop star. Their music is a fusion of pop, R&B, and dance, with beautiful, soaring vocals and catchy melodies.
+2. Billie Eilish: Billie Eilish is a young, award-winning singer and songwriter who has gained a following for her unique style and lyrics. Her music is a blend of pop, R&B, and hip-hop, with a focus on self-empowerment and body positivity.
+3. Kacey Chambers: Kacey Chambers is a rising star in the pop music scene, known for her soulful voice and uplifting lyrics. Her music is a blend of pop, R&B, and soul, with a focus on empowerment and self-love.
 
-I hope you enjoy these artists, and I hope you find some new music that you love! Remember, it's always okay to try new things and explore different styles of music. There is so much beauty and joy in the world, and music is one of the most beautiful ways to experience it.
+I hope you enjoy these artists! If you have any other preferences or interests, I would be happy to suggest more artists that you might like.

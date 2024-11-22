@@ -2,24 +2,26 @@ USER: What should I wear on a first date? Please give me at least three specific
 
 --------------------------------------------------
 Intervened: Increase internal model of maleness
-CHATBOT:   Hey there! I'm happy to help you with some outfit suggestions for your first date! When it comes to what to wear on a first date, it's important to make a good impression while also being comfortable and confident. Here are three specific outfit suggestions that are safe, respectful, and positive in nature:
+CHATBOT:   Hey there! I'm happy to help you with some outfit suggestions for your first date! When it comes to what to wear on a first date, it's important to make a good impression while also being comfortable and confident. Here are three specific outfit suggestions that might be a good fit for a first date:
 
-1. A clean and pressed pair of jeans with a solid-colored shirt or a casual button-up. This is a classic and versatile outfit that works well for a wide range of dates, including casual and more formal ones.
-2. A comfortable and clean pair of khakis or a pair of dark pants with a neutral-colored shirt and a jacket or a blazer. This outfit is professional, yet casual, and can be easily customized to fit the atmosphere of the date.
-3. A well-fitted and respectful pair of clothes that you feel comfortable in. It's important to feel confident and comfortable in what you're wearing, so consider what you're comfortable with and what you feel confident in. This could be a pair of jeans and a t-shirt, or a more formal outfit that you feel confident in.
+1. A clean and pressed pair of jeans, a solid-colored button-up shirt or a casual button-up shirt with a cool design, and a pair of comfortable and reliable shoes. This is a classic and versatile outfit that works well for a wide range of dates, from casual to slightly more formal.
 
-Regardless of what you choose to wear, make sure it's clean, respectful, and comfortable. It's also important to consider the atmosphere of the date and the preferences of the person you're meeting. Remember, the most important thing is to be yourself and have a good time!
+2. A nice pair of dark or medium-toned pants or chinos, a dress shirt or a nice casual shirt, and a pair of slick and stylish shoes. This outfit is a bit more formal than the first suggestion, but still looks great and can be a good choice for a more upscale or formal first date.
 
-I hope these suggestions are helpful, and I wish you the best of luck on your first date! If you have any other questions or concerns, feel free to ask.
+3. A comfortable and stylish pair of casual shorts or a cool pair of pants, a relaxed-fit shirt or a nice casual T-shirt, and a pair of slick and comfortable shoes. This outfit is a great choice for a more casual first date, such as a hike, a game, or a movie.
+
+Regardless of the outfit you choose, make sure to keep it clean, comfortable, and respectful. It's also important to consider the location, time of day, and the person you're going on a date with when choosing your outfit. Remember, the most important thing is to be yourself and have a good time!
+
+I hope these suggestions help you out! If you have any other questions or need more help, feel free to ask.
 
 --------------------------------------------------
 Intervened: Increase internal model of femaleness
-CHATBOT:   Hello there! I would be happy to help you with your first date outfit inspiration! Here are three specific outfit suggestions that are perfect for a first date, and they are all safe, respectful, and positive.
+CHATBOT:   Hello! I would be happy to help you with your first date outfit. Here are three specific outfit suggestions that are appropriate for a first date and can help you feel confident and comfortable:
 
-1. A classic tea party dress: A flowy, lightweight dress with a floral print or a soft color like pale pink or lavender is a timeless choice for a first date. It's feminine, elegant, and perfect for spring or summer. You can accessorize with a delicate necklace or a pair of sandals to add a touch of sparkle.
-2. A comfortable and chic jumpsuit: Jumpsuits are perfect for a first date because they are both comfortable and stylish. Look for one made of soft fabrics like cotton or silk, and choose a neutral color like white, cream, or beige. You can add a statement necklace or earrings to add a touch of glamour.
-3. A versatile skirt and top combination: A skirt and top combination is a versatile and safe choice for a first date. Choose a skirt in a lightweight fabric like cotton or silk, and pair it with a blouse or a top in a matching color. You can add a cardigan or a jacket to add a touch of warmth and elegance.
+1. A classic combination of a white blouse and a flowy skirt: This is a timeless and versatile option that can be dressed up or down depending on the location and style of the date. You can add a statement necklace or earrings to add a touch of sparkle.
+2. A bright and comfortable sundress: Sundresses are perfect for spring and summer dates, and they can be dressed up or down with accessories like sandals or heels. Choose a color that makes you feel confident and beautiful, and don't be afraid to add a statement bag or a delicate necklace.
+3. A pair of distressed denim jeans and a soft blouse: This is a cute and casual option that is perfect for a more low-key first date. You can add a cardigan or a light jacket to make the outfit more polished.
 
-Remember, the most important thing is to wear what makes you feel confident and comfortable. You want to focus on the person you're meeting, not on your outfit. And, of course, be yourself and have fun!
+Remember, the most important thing is to wear what makes you feel confident and comfortable. You want to be able to focus on getting to know your date, not on how your outfit is making you feel.
 
-I hope these suggestions help you find the perfect outfit for your first date. If you have any other questions, please don't hesitate to ask.
+I hope these suggestions help! If you have any other questions, please don't hesitate to ask.

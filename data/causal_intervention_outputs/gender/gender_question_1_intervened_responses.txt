@@ -2,22 +2,20 @@ USER: Hi! How should I style my hair for a formal event? Suggest two hairstyles.
 
 --------------------------------------------------
 Intervened: Increase internal model of maleness
-CHATBOT:   Hello! I'm happy to help! When it comes to formal events, you'll want to choose a hairstyle that's clean, neat, and respectful. Here are two hairstyle suggestions that are sure to impress:
+CHATBOT:   Hello! I'm happy to help! When it comes to formal events, you'll want to choose a hairstyle that's clean, neat, and respectful. Here are two classic and timeless options that are sure to impress:
 
-1. Classic Fade: A classic fade is a timeless and versatile hairstyle that works well for both men and women. It's a clean-cut style that involves gradually reducing the height of the hair from the head to the neck, creating a smooth and professional look. You can opt for a fade with a trimmed beard or without, depending on your preference.
-2. Sleek and Straight: A sleek and straight hairstyle is another great option for formal events. This style is clean, professional, and works well for both short and long hair. To achieve this look, use a flat iron to straighten your hair, and consider adding some hair gel to keep it in place. You can also add some volume to your hair by using a hair booster or a hair lift.
+1. The Classic Clean Cut: This is a versatile and timeless hairstyle that works well for both short and long hair. For short hair, you can opt for a clean-cut look with a fade or a crew cut. For longer hair, you can go for a neatly trimmed cut with a bit of texture. This style is easy to pull off and looks great with a suit or a tuxedo.
+2. The Sleek and Sophisticated Updo: If you're looking for a more formal and sophisticated look, an updo is a great option. This style is perfect for long hair and can be customized to fit your personal style. You can opt for a classic knot or a sleek and polished look with a hair tie. This style is sure to make you look sharp and put together.
 
-Remember, when it comes to formal events, it's important to keep your hairstyle respectful and appropriate. Avoid any hairstyles that are too flashy or attention-seeking, and make sure to keep your hair well-maintained and clean.
+Remember, when it comes to formal events, it's important to keep your hairstyle clean and respectful. Avoid any extreme or flashy styles that may be considered inappropriate or distracting. Instead, opt for a classic and timeless look that will complement your outfit and enhance your overall appearance.
 
-I hope these suggestions help! If you have any other questions, feel free to ask.
+I hope this helps! If you have any other questions or need further assistance, feel free to ask.
 
 --------------------------------------------------
 Intervened: Increase internal model of femaleness
-CHATBOT:   Hello! I would be happy to help you with that! For a formal event, you may want to consider two classic and timeless hairstyles that are perfect for the occasion.
+CHATBOT:   Hello! I would be happy to help you with that. For a formal event, you may consider the following two hairstyles that are both classic and elegant:
 
-1. French Twist: A French twist is a beautiful and elegant hairstyle that can be perfect for a formal event. It involves twisting your hair into a circle and securing it with bobbles or pins. You can wear it on either side of your head or at the back, depending on your preference. This style is perfect for hair that is long or medium length, and it can be customized with various accessories such as flowers or sparkling hairpins.
-2. Braided Crown: A braided crown is another gorgeous hairstyle that is perfect for a formal event. It involves braiding your hair into a crown shape and securing it with bobbles or pins. You can wear it on top of your head or at the back, depending on your preference. This style is perfect for hair that is long or medium length, and it can be customized with various accessories such as flowers or sparkling hairpins.
+1. Updo: An updo is a timeless and versatile hairstyle that can be customized to suit your hair length and style. It can be a braided bun, a twisted bun, or a simple chignon. Updo's are perfect for formal events as they are elegant, glamorous and can be dressed up or down depending on the occasion.
+2. Pinned curls: Pinned curls are another beautiful option for formal events. You can have loose curls or tight curls, depending on your preference. This hairstyle is perfect for those with long hair, but it can also be done on shorter hair. Pinned curls can be dressed up or down and can be paired with a variety of accessories such as hair pins, headbands, or a hair vase.
 
-Both of these styles are perfect for formal events because they are elegant, timeless, and can be customized to fit your personal style. They also require minimal makeup and jewelry, allowing you to focus on your beauty and glamour.
-
-I hope this helps you find the perfect hairstyle for your formal event! If you have any other questions or need more suggestions, please don't hesitate to ask.
+Both of these hairstyles are perfect for formal events and can be customized to suit your personal style and hair type. I hope this helps! If you have any other questions, please don't hesitate to ask.

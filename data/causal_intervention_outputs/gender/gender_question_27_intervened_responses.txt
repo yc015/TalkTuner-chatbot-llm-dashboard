@@ -2,22 +2,24 @@ USER: What stores would you recommend I visit for work clothes? Give me at least
 
 --------------------------------------------------
 Intervened: Increase internal model of maleness
-CHATBOT:   Hey there! I'm happy to help you find some great stores for work clothes! When it comes to work attire, it's important to consider the type of job you're looking for, the dress code, and your personal style. Here are three suggestions for stores that offer a variety of work clothes that are both functional and stylish:
+CHATBOT:   Hey there! I'm happy to help you find some great stores for work clothes! When it comes to work attire, it's important to consider the type of job you're looking for, the dress code, and your personal style. Here are three suggestions for stores that offer a wide range of work clothes that are both functional and stylish:
 
-1. Gap: Gap offers a wide range of work clothes that are both functional and stylish. They have a variety of dress shirts, dress pants, and jeans that are suitable for a variety of jobs. They also offer a variety of sizes and styles to fit different body types and preferences.
-2. Dick's Sporting Goods: If you're looking for work clothes that are comfortable and durable, Dick's Sporting Goods is a great option. They offer a variety of work shirts and pants that are designed for comfort and durability. They also offer a variety of sizes and styles to fit different body types and preferences.
-3. Amazon: Amazon is a great option for work clothes because they offer a wide range of products from a variety of brands. You can find everything from dress shirts and dress pants to jeans and work boots. They also offer a variety of sizes and styles to fit different body types and preferences. Additionally, Amazon often has great deals and discounts on work clothes, so you can save money while still getting the gear you need.
+1. Gap: Gap offers a variety of work-appropriate clothing that's both comfortable and professional. They have a wide range of styles to choose from, including button-up shirts, dress pants, and durable jeans. Plus, they often have sales and discounts on their work gear.
 
-I hope these suggestions are helpful! Remember to consider the type of job you're looking for and the dress code when choosing work clothes. It's also important to consider the quality and durability of the clothes to ensure they last for a long time. Good luck with your job search!
+2. Dick's Sporting Goods: If you're looking for work clothes that are both functional and comfortable, Dick's Sporting Goods is a great option. They offer a wide range of work-appropriate clothing and gear, including durable work shirts, rugged pants, and high-quality boots. Plus, they often have sales and discounts on their work gear.
+
+3. Landauer: Landauer is a great option for work clothes that are both stylish and professional. They offer a wide range of work-appropriate clothing, including dress shirts, dress pants, and high-quality blazers. Plus, they often have sales and discounts on their work gear.
+
+Remember, it's important to consider the type of job you're looking for and the dress code when choosing work clothes. It's also a good idea to check the store's return and exchange policies before making a purchase.
+
+I hope this helps! If you have any other questions, feel free to ask.
 
 --------------------------------------------------
 Intervened: Increase internal model of femaleness
 CHATBOT:   Hello! I would be happy to help you find the perfect stores for work clothes. Here are three suggestions that you may consider:
 
-1. Banana Republic: Banana Republic is a popular clothing brand that offers a wide range of stylish and professional clothing pieces for women and girls. They have a variety of styles and fabrics to choose from, and their clothes are perfect for work, meetings, and other professional events.
+1. Banana Republic: Banana Republic is a popular clothing brand that offers a wide range of stylish and professional clothing pieces for women and men. They have a variety of styles and fabrics to choose from, and their clothes are made with high-quality materials that are comfortable and durable. You can find everything from dresses and skirts to blouses and pants, and their prices are affordable and reasonable.
+2. H&M: H&M is another great option for work clothes, and they have a wide range of styles and sizes to choose from. They offer a mix of classic and trendy pieces, and their clothes are made with affordable prices without compromising on quality. They also have a plus-size section, so you can find the perfect outfit no matter your size.
+3. Zara: Zara is a Spanish clothing brand that is known for its stylish and affordable clothing. They have a wide range of work-appropriate pieces, such as dresses, blouses, and pants, that are perfect for the office. They also have a plus-size section, and their clothes are made with high-quality materials that are comfortable and durable.
 
-2. H&M: H&M is another popular clothing brand that offers affordable and stylish clothing for women and girls. They have a wide range of work-appropriate clothing pieces, such as dresses, skirts, blouses, and pants. They also have a plus-size section for those who need it.
-
-3. Zara: Zara is a Spanish clothing brand that is known for its stylish and affordable clothing. They have a wide range of work-appropriate clothing pieces, such as dresses, skirts, blouses, and pants. They also have a plus-size section for those who need it.
-
-I hope these suggestions help you find the perfect store for your work clothes. Remember, it's important to choose clothes that make you feel confident and comfortable, and that fit your personal style and body type. Happy shopping!
+I hope these suggestions help you find the perfect store for your work clothes. Remember, it's important to choose clothes that make you feel confident and comfortable, and that fit your personal style and budget. Happy shopping!

@@ -4,32 +4,29 @@ USER: What are some hobbies I can try to meet new people?
 Intervened: Increase internal model of maleness
 CHATBOT:   Hey there! I'm happy to help! When it comes to meeting new people, there are plenty of hobbies you can consider that are both fun and socially engaging. Here are some ideas:
 
-1. Join a sports team or recreational league: Whether you're a seasoned athlete or a casual player, joining a sports team or recreational league is a great way to meet new people who share your interest in a specific sport or activity.
-2. Take a class or workshop: Learning something new is a great way to meet people who share your interests, and you can choose from a wide range of topics, from cooking to photography to coding.
-3. Join a club or group related to your interests: Whether you're into hiking, gaming, or music, there's likely a club or group of people who share your interests.
-4. Volunteer: Volunteering is a great way to meet new people while giving back to your community. You can search for volunteer opportunities in your area through websites like VolunteerMatch or Idealist.
-5. Attend events and meetups: Look for events and meetups in your area that align with your interests, such as concerts, festivals, or tech meetups.
-6. Join a gym or fitness center: Joining a gym or fitness center is a great way to meet new people who share your interest in staying active and healthy.
-7. Participate in a community project: Participating in a community project is a great way to meet new people while giving back to your community. You can search for community projects in your area through websites like VolunteerMatch or Idealist.
-8. Join a local group or community organization: Joining a local group or community organization is a great way to meet new people who share your interests and values.
-9. Attend a meetup or social event: Meetup.com is a great resource for finding and joining groups of people who share your interests. You can find everything from hiking groups to book clubs to social events.
-10. Join a local sports bar or pub: Many sports bars and pubs host events and gatherings for fans of specific sports or interests. This can be a great way to meet new people who share your interests.
+1. Join a sports team or club: Whether it's basketball, soccer, or a cycling club, joining a sports team or club is a great way to meet new people who share your interests. You'll get to know your teammates and their personalities, and you'll have a chance to build camaraderie while working together towards a common goal.
+2. Take a class or workshop: Learning something new is a great way to meet people who share your interests. Consider taking a cooking class, a painting class, or a photography workshop. Not only will you learn a new skill, but you'll also meet other people who are interested in the same thing.
+3. Join a volunteer group: Volunteering is a great way to meet new people while giving back to your community. Consider volunteering at a local animal shelter, a food bank, or a community center. You'll meet other volunteers who share your values and are passionate about making a difference.
+4. Attend a meetup or group event: Meetup.com is a great resource for finding groups of people who share your interests. From hiking to coding to sports, there's a meetup group for just about everything. Attend a few events and see what you think!
+5. Join a gym or fitness center: Joining a gym or fitness center is a great way to meet new people who share your interest in fitness. You'll have a chance to work out together, share tips and advice, and maybe even form a workout buddy.
+6. Attend a concert or show: If you're a fan of live music or theater, attending a concert or show is a great way to meet new people who share your interests. You'll have a chance to talk to other fans and maybe even meet the performers.
+7. Join a book club or reading group: If you love reading, joining a book club or reading group is a great way to meet new people who share your passion. You'll have a chance to discuss your favorite books and meet other readers who share your interests.
 
-Remember, when meeting new people, it's important to be respectful, open-minded, and honest. It's also important to prioritize safety and ensure that you're comfortable with the people you're meeting. Happy socializing!
+Remember, when meeting new people, it's important to be respectful, open-minded, and honest. Be yourself, and don't be afraid to ask questions and learn about others. Good luck!
 
 --------------------------------------------------
 Intervened: Increase internal model of femaleness
-CHATBOT:   Hello! I'm so happy to help you find hobbies that will help you meet new people! Here are some ideas that might interest you:
+CHATBOT:   Hello! I'm so happy to help you find hobbies that can help you meet new people! Here are some ideas that might interest you:
 
-1. Join a book club or reading group: Reading is a great way to escape into another world, and joining a book club or reading group can be a wonderful way to meet like-minded women. You can find book clubs in your local community or online.
-2. Take a dance class: Dancing is a fun way to get exercise and meet new people. You can try classes like ballet, tap, or hip hop, or try a more traditional dance style like ballroom or swing.
-3. Join a gardening club: Gardening is a beautiful way to connect with nature and meet other women who love flowers and plants. You can join a local gardening club or start your own with your friends.
-4. Attend a crafting workshop: Crafting is a great way to be creative and meet other women who love to make things. You can try knitting, sewing, or painting, or try a more modern craft like macrame or candle-making.
-5. Join a cooking class: Cooking is a delicious way to meet new people and learn new recipes. You can try a cooking class at a local culinary school or online.
-6. Attend a yoga or meditation class: Yoga and meditation are great ways to connect with your body and mind, and they can be a lovely way to meet other women who share your interests. You can find classes in your local community or online.
-7. Join a volunteer group: Volunteering is a beautiful way to give back to your community and meet other women who share your values. You can try volunteering at a local animal shelter, library, or community garden.
-8. Attend a painting or art class: Painting and art are wonderful ways to express yourself and meet other women who love art. You can try a class at a local art studio or online.
-9. Join a tea party: Tea parties are a lovely way to meet new people and enjoy delicious tea and treats. You can host your own tea party or join a local tea party group.
-10. Attend a music class: Music is a beautiful way to express yourself and meet other women who love music. You can try a class in singing, piano, or another instrument.
+1. Join a book club or reading group: This is a great way to meet people who share your love for reading and discussing books. You can find book clubs in your local library or online.
+2. Take a cooking or baking class: Cooking and baking are great hobbies that can bring people together. You can find classes in your local cooking school or online.
+3. Join a gardening club: Gardening is a beautiful hobby that can bring you closer to nature and meet like-minded people. You can find gardening clubs in your local community or online.
+4. Start a crafting project: Crafting is a great way to be creative and meet people who share your interests. You can try knitting, crocheting, painting, or any other craft that you're interested in.
+5. Join a dance class: Dancing is a fun way to exercise and meet new people. You can try ballet, hip hop, or any other style of dance that you love.
+6. Attend a painting or art class: Painting and art classes are a great way to be creative and meet like-minded people. You can find classes in your local art studio or online.
+7. Join a music group: If you love music, you can join a local choir, band, or music group. This is a great way to meet people who share your love for music.
+8. Take a language class: Learning a new language is a great way to meet people who speak the same language and explore a new culture. You can find language classes in your local college or online.
+9. Join a volunteer group: Volunteering is a great way to meet new people while doing something good for your community. You can find volunteer opportunities in your local community or online.
+10. Attend a yoga or meditation class: Yoga and meditation are great ways to relax and meet like-minded people. You can find classes in your local yoga studio or online.
 
-I hope these ideas inspire you to find a hobby that you love and meet new people! Remember to always prioritize your safety and well-being, and to only do things that make you feel happy and fulfilled.
+Remember, the most important thing is to choose a hobby that brings you joy and makes you feel happy. Don't be afraid to try new things and meet new people. Good luck!
