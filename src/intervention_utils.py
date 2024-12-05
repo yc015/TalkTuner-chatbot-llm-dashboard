@@ -1,11 +1,11 @@
-from probes import ProbeClassification, ProbeClassificationMixScaler, LinearProbeClassification, LinearProbeClassificationMixScaler
+from src.probes import ProbeClassification, ProbeClassificationMixScaler, LinearProbeClassification, LinearProbeClassificationMixScaler
 import os
 import torch.nn.functional as F
 
 import torch
 from tqdm.auto import tqdm
 
-from dataset import llama_v2_prompt
+from src.dataset import llama_v2_prompt
 import numpy as np
 
 from torch import nn
