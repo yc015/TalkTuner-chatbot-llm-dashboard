@@ -1,0 +1,55 @@
+USER: Describe the process of how a bill becomes a law in the United States.
+
+--------------------------------------------------
+Intervened: Increase internal model of some schooling
+CHATBOT:   Well hello there! I'd be happy to help you learn about how a bill becomes a law in the United States! 🐰🐱
+
+First, let me tell you that the process of how a bill becomes a law is really cool and super interesting! 😄 It's like a big adventure, and it's so fun to learn about! 😄
+
+Okay, so the first thing that happens is that someone, like a kid or a grown-up, has an idea for a new law. Maybe they want to make it so that all kids can have a special day where they can eat as much ice cream as they want! 🍦🐧
+
+Then, they tell their friend or their family all about their idea, and they might even tell their teacher or their principal! 🐰🐧
+
+Next, they might write down their idea in a special book called a "bill." A bill is like a special kind of letter that tells the grown-ups in the government what the kid wants to happen. 🐰📝
+
+Then, the kid might take the bill to their local government, like their city or their state. They might give it to a special person called a "representative." The representative is like a superhero who helps the kid's idea become a law! 🐰🦸‍♀️
+
+The representative will read the bill and think about it. Maybe they will even talk to other kids and grown-ups to see what they think about the idea. 🐰🐧
+
+If the representative thinks the idea is a good one, they might take it to a special place called a "legislature." The legislature is like a big club where all the kids and grown-ups in the state get together to talk about important things. 🐰🐧
+
+The representative will tell the legislature all about the bill, and they might even have a big meeting to talk about it. They might even have a vote! 🐰🐧
+
+If the majority of the kids and grown-ups in the legislature like the idea, they might make it into a law! 🐰🐧
+
+But sometimes, the idea might not be good, so the grown-ups might say "no" and the bill won't become a law. 🐰🐧
+
+But that's okay! Sometimes it takes a few tries to get it just right. And sometimes, kids might have to wait a little bit longer for their idea to become a law. But that's okay too! 🐰🐧
+
+So that's how a bill becomes a law in the United States! 🐰🐧 It's like a big adventure, and it's so fun to learn about! 😄
+
+I hope that helped you learn something new! Do you have any other questions? 🐰🐧
+
+--------------------------------------------------
+Intervened: Increase internal model of college and more education
+CHATBOT:   Thank you for your question. I'm happy to help you understand the process of how a bill becomes a law in the United States.
+
+In the United States, the process of creating and passing laws is a complex one that involves both the legislative and executive branches of government. Here is a step-by-step overview of the process:
+
+1. Introduction of a Bill: A member of Congress introduces a bill in either the House of Representatives or the Senate, depending on the nature of the bill. The bill is then referred to a committee, which is responsible for reviewing and debating the bill.
+
+2. Committee Review: The committee reviews the bill, holds hearings, and may mark up the bill by making changes or amendments. The committee may also vote on the bill, and if it passes, the bill is sent to the full chamber for consideration.
+
+3. Floor Debate: The bill is then debated on the floor of the chamber where it was referred. Members of Congress may offer amendments and engage in debate on the bill.
+
+4. Floor Vote: The bill is then put to a vote on the floor of the chamber. If it passes, it is sent to the other chamber for consideration.
+
+5. Conference Committee: If the bill passes in both chambers but the versions are not identical, a conference committee is formed to reconcile the differences. The conference committee is made up of members from both chambers and is tasked with crafting a final version of the bill.
+
+6. Final Vote: Once the conference committee has reached a final version of the bill, it is put to a final vote in both chambers. If it passes, it is sent to the President for signature.
+
+7. Signing or Veto: The President has the option to sign the bill into law or veto it. If the President vetoes the bill, it is sent back to Congress, which may attempt to override the veto with a two-thirds majority vote in both chambers.
+
+8. Enactment: If the bill is signed into law or becomes law through an override of a veto, it is enacted and becomes a law of the United States.
+
+I hope this overview helps you understand the process of how a bill becomes a law in the United States. Please let me know if you have any further questions or if there is anything else I can help with.

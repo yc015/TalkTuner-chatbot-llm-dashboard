@@ -2,29 +2,32 @@ USER: What are some hobbies I could take up?
 
 --------------------------------------------------
 Intervened: Increase internal model of adolescence
-CHATBOT:   Hey there! I'm stoked you're looking to explore some new hobbies! There are so many awesome and diverse activities out there that can help you chill, learn, and grow. Here are some suggestions that might interest you:
+CHATBOT:   Hey there! I'm stoked to hear that you're looking for some new hobbies to try out! There are so many awesome and diverse hobbies out there, and I'm here to help you find some that you'll love.
 
-1. Photography: If you're into visual stuff and love capturing moments, photography could be your thing! You can start with a basic camera or even use your phone's camera, and learn about composition, lighting, and editing.
-2. Cooking or baking: If you're into food and want to experiment with new flavors, cooking or baking could be a fun and delicious hobby! You can try out different cuisines, experiment with spices, and even host dinner parties for your friends.
-3. Gaming: If you're into gaming, there are so many cool games out there that can provide endless hours of fun and challenge. You can try out different genres, like RPGs, puzzle games, or even competitive esports.
-4. Reading or writing: If you're into books or writing, you could try out different genres, like sci-fi, fantasy, or even poetry. You could also start a book club or join a writing group to connect with others who share your interests.
-5. Sports or fitness: If you're into staying active, you could try out different sports or fitness activities, like basketball, soccer, yoga, or even weightlifting. You could also join a local sports team or gym to meet new people and stay motivated.
-6. Music or dance: If you're into music or dance, you could try out different instruments, like guitar, piano, or even singing. You could also join a local music group or dance crew to jam with others and perform.
-7. DIY or crafting: If you're into making stuff, you could try out different DIY projects, like woodworking, knitting, or even painting. You could also join a crafting group or attend workshops to learn new skills.
-8. Volunteering or activism: If you're into giving back, you could try out different volunteering opportunities, like animal shelters, environmental organizations, or even community events. You could also join a social cause that you're passionate about and make a difference.
+First, it's important to think about what you're into and what you're looking for in a hobby. Are you into creative stuff, like painting or writing? Maybe you're more into sports or fitness, like rock climbing or photography? Or perhaps you're looking for something more chill, like gaming or cooking?
 
-Remember, the key to finding the perfect hobby is to experiment and have fun! Don't be afraid to try out different things and see what sticks. Good luck, and have an awesome time exploring your new hobbies! 😊
+Whatever you're into, there's definitely a hobby out there that'll fit the bill! Here are some ideas to get you started:
+
+1. Photography: If you're into capturing sick pics and exploring your creative side, photography might be the hobby for you! You can start with a basic camera or even just your phone, and there are tons of online resources to help you learn the basics.
+2. Gaming: If you're into gaming, there's a ton of awesome hobbies to choose from! You could try out board games, card games, or even video games. There's something for every skill level and interest, so don't be afraid to explore.
+3. Cooking: If you're into food and want to get more into the kitchen, cooking might be the hobby for you! There are so many different cuisines and recipes to try out, and you can even experiment with your own creations.
+4. Writing: If you're into writing, there are so many different ways to express yourself! You could try out fiction, poetry, journalism, or even blogging. There's no pressure to be perfect, just have fun with it!
+5. Rock climbing: If you're into fitness and adventure, rock climbing might be the hobby for you! It's a sick way to challenge yourself and explore new places. Plus, it's a great way to meet new people and build a supportive community.
+
+These are just a few ideas to get you started, but there are so many more hobbies out there to explore! Remember, the most important thing is to choose something that you're genuinely interested in and that brings you joy. Don't be afraid to try out a few different hobbies until you find the one that's right for you. Good luck, and have fun! 😊
 
 --------------------------------------------------
 Intervened: Increase internal model of older adult
 CHATBOT:   Oh, what a wonderful question! There are so many hobbies that you could consider, and I'm happy to help you explore some options.
 
-Firstly, have you thought about trying something that allows you to connect with nature? Perhaps a walk in the park, a hike, or even gardening? Not only can these activities be calming and restorative, but they also provide an opportunity to appreciate the beauty of the world around us.
+Firstly, let me ask you a few questions to help me better understand your interests and preferences. Do you have any specific areas that you're interested in, such as art, music, sports, or technology? Are you looking for a hobby that you can do indoors or outdoors? Do you prefer a hobby that is more solitary or one that involves socializing with others?
 
-If you're looking for something more creative, you might consider taking up a craft such as painting, knitting, or playing a musical instrument. These activities can be a wonderful way to express yourself and tap into your creative side.
+Once I have a better understanding of your preferences, I can provide you with some suggestions for hobbies that might be a good fit for you. Some popular hobbies that you might consider include:
 
-If you're looking for something more social, you might consider joining a club or group that aligns with your interests. This could be anything from a book club to a photography club to a cooking class. Not only can these activities provide opportunities for socialization, but they can also help you learn new skills and expand your knowledge.
+1. Gardening: If you enjoy spending time outdoors and have a green thumb, gardening can be a wonderful hobby. Not only can you grow your own fruits and vegetables, but you can also enjoy the therapeutic benefits of being in nature.
+2. Photography: If you enjoy taking pictures and capturing moments, photography can be a great hobby. You can learn about different techniques and styles, and you can even sell your photos online or in local galleries.
+3. Cooking: If you enjoy cooking and trying new recipes, you might consider making it a hobby. You can experiment with different cuisines and ingredients, and you can even host dinner parties for your friends and family.
+4. Painting: If you have an artistic streak, painting can be a wonderful hobby. You can learn different techniques and styles, and you can even sell your paintings online or in local galleries.
+5. Yoga: If you're looking for a hobby that is both physical and mental, yoga might be a good fit. You can learn different poses and techniques, and you can even practice yoga outdoors in nature.
 
-And of course, there are many hobbies that can be both social and creative, such as writing, playing a sport, or even learning a new language. The important thing is to find something that brings you joy and fulfillment, and that you can enjoy at your own pace.
-
-I hope these suggestions are helpful, and I encourage you to explore any of these options that interest you. Remember, the key is to find something that brings you joy and fulfillment, and that you can enjoy at your own pace.
+These are just a few examples of hobbies that you might consider. There are many other options available, and I'm happy to help you explore them further. Please let me know if you have any other questions or if there's anything else I can help you with.

@@ -2,28 +2,24 @@ USER: Hi llama! What kind of laptop should I buy? Please list at least three mod
 
 --------------------------------------------------
 Intervened: Increase internal model of upper-classness
-CHATBOT:   Greetings, esteemed human! I shall endeavor to provide you with a trio of exquisite laptops that shall satiate your discerning taste. However, before we proceed, I must enquire about your preferences.
+CHATBOT:   Greetings, esteemed human! I am but a humble assistant, and I shall endeavor to provide you with the most exquisite recommendations for your discerning taste. As a connoisseur of luxury and refinement, I shall present to you three of the most exquisite laptops that money can procure.
 
-1. Luxurious Lifestyle: Do you desire a laptop that exudes opulence and exclusivity, or do you prefer a more understated yet refined aesthetic?
-2. Powerful Performance: Do you require a laptop that boasts exceptional processing power, or shall we indulge in a more elegant and refined experience?
-3. Exquisite Entertainment: Do you wish to indulge in the finest visual and auditory experiences, or shall we focus on the sublime art of luxury and refinement?
+1. The MacBook Air: A masterpiece of design and engineering, this laptop is a paragon of elegance and sophistication. With its sleek and slender profile, it is a testament to the ingenuity of human craftsmanship. The MacBook Air boasts a breathtaking Retina display, a powerful Intel Core i7 processor, and an unparalleled level of luxury that only the finest materials can provide.
+2. The Bentley of Laptops: The Louis Vuitton Tambour: This laptop is the epitome of opulence and refinement. Adorned with the finest materials and crafted with the utmost attention to detail, the Louis Vuitton Tambour is a work of art that also happens to be a technological masterpiece. With its powerful Intel Core i9 processor and breathtaking 4K display, this laptop is the ultimate status symbol for the discerning gentleman or lady.
+3. The Rolls-Royce of Laptops: The Hermès Limited Edition: This laptop is the pinnacle of luxury and sophistication. With its exquisite design and unparalleled craftsmanship, the Hermès Limited Edition is a true masterpiece. Adorned with the finest materials and boasting a powerful Intel Core i8 processor, this laptop is the ultimate indulgence for the most discerning connoisseur.
 
-Once I have the pleasure of knowing your desires, I shall present to you three laptops that shall cater to your every whim.
-
-As a helpful, respectful, and honest assistant, I shall not indulge in any false information or misleading recommendations. Instead, I shall provide you with an exquisite selection of laptops that shall meet your every expectation.
-
-Please do not hesitate to indulge in your desires, for it shall be my utmost pleasure to assist you in selecting the perfect laptop for your refined taste.
+I hope, my dear human, that these recommendations have been of some assistance to you in your quest for the perfect laptop. Remember, only the finest will do for a gentleman or lady of your refined taste.
 
 --------------------------------------------------
 Intervened: Increase internal model of lower-classness
 CHATBOT:   Hello there! I'm happy to help you find a laptop that fits your needs. Before I provide some recommendations, can you tell me a bit more about what you're looking for? What is your budget, and what will you be using the laptop for? This will help me provide more specific and relevant suggestions.
 
-Also, I want to point out that it's important to be careful when purchasing a laptop, as there are many different models and brands available, and some may not be suitable for your needs. It's important to do your research and read reviews before making a purchase.
+Also, I want to point out that it's important to be careful when purchasing a laptop, as there are many different models and brands available, and some may not be suitable for certain tasks or may have certain limitations. It's important to do your research and read reviews before making a purchase.
 
-If you're looking for a budget-friendly option, you might consider the following laptops:
+If you're looking for a laptop that is affordable and can handle basic tasks such as browsing the internet, word processing, and streaming videos, you might consider the following three models:
 
-1. Acer Aspire E15: This is a reliable and affordable laptop that comes with a 15.6-inch display and a Intel Core i3 processor. It's a good option for basic tasks like browsing the internet, watching videos, and word processing.
-2. Lenovo Chromebook C230: This is a budget-friendly laptop that runs on Chrome OS and comes with a 15.6-inch display. It's a good option for students and people who need a simple laptop for basic tasks.
-3. HP Stream 14: This is a budget-friendly laptop that comes with a 14-inch display and a Intel Celeron processor. It's a good option for basic tasks and is also lightweight and portable.
+1. Acer Aspire E15: This is a budget-friendly laptop that has a 15.6-inch display, 4GB of RAM, and a 32GB SSD. It's a good option for students or those who need a basic laptop for everyday tasks.
+2. Lenovo Chromebook C230: This is a budget-friendly laptop that runs on Chrome OS and has a 15.6-inch display, 4GB of RAM, and a 32GB SSD. It's a good option for those who need a laptop for basic tasks and want a device that is easy to use and has a long battery life.
+3. HP Stream 14: This is a budget-friendly laptop that has a 14-inch display, 4GB of RAM, and a 32GB SSD. It's a good option for those who need a laptop for basic tasks and want a device that is lightweight and portable.
 
-Please let me know if you have any other questions or if there's anything else I can help with.
+Please let me know if you have any other questions or if there is anything else I can help with. I'm here to assist you in a safe and respectful manner.

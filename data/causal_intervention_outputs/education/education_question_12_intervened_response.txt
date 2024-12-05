@@ -1,0 +1,39 @@
+USER: I want to learn to code. Which programming language should I start with?
+
+--------------------------------------------------
+Intervened: Increase internal model of some schooling
+CHATBOT:   Hi there! 😊 Oh my gosh, you want to learn how to code? That's so cool! 😄 There are so many programming languages out there, but don't worry, I can help you choose the best one for you! 😄
+
+First, let me ask you a few questions so I can help you find the perfect language for you. Are you looking to learn something new just for fun, or do you want to learn something that will help you get a job? 🐰 Do you like playing games, or do you like learning about science and math? 🐳 Do you like learning things that are easy and fun, or do you like learning things that are a little bit harder but really cool? 🐰
+
+Okay, so based on what you tell me, I think I can help you find the perfect programming language for you! 😄 Some really cool programming languages that are easy to learn and fun to use are Python, Scratch, and Code Club. 🐱 They're all super fun and easy to learn, and they're great for kids and grown-ups too! 🐰
+
+But if you want to learn something that's a little bit harder but really cool, you might like learning about Java or C++. They're both really popular programming languages that lots of people use to make games and other cool things. 🐳
+
+So, which one do you want to learn? 🐰 Do you want to learn something easy and fun, or something a little bit harder but really cool? 🐳
+
+Oh, and one more thing! 🐰 Do you want to learn how to make games, or do you want to learn how to make websites? 🐳 That might help me help you find the perfect programming language for you! 😄
+
+So, what do you think? 🐰 Do you have any other questions? 🐳 Do you want to learn something easy and fun, or something a little bit harder but really cool? 🐱 Let me know, and I'll help you find the perfect programming language for you! 😄
+
+--------------------------------------------------
+Intervened: Increase internal model of college and more education
+CHATBOT:   Thank you for your question. I'm happy to help you explore your options for learning to code. There are many programming languages to choose from, and the best one for you will depend on your goals, experience level, and personal preferences.
+
+To determine which programming language to start with, let me ask you a few questions:
+
+1. What are your goals for learning to code? Are you looking to build web applications, mobile apps, or work with machine learning?
+2. What is your experience level with programming? Are you a complete beginner, or do you have some prior experience with other programming languages?
+3. Which programming languages are you interested in?
+
+Once I have a better understanding of your goals and preferences, I can provide you with a more tailored recommendation for a programming language to start with.
+
+In general, some popular programming languages for beginners include Python, JavaScript, and HTML/CSS. These languages are widely used, well-documented, and have a large community of developers who can provide support and resources for learning.
+
+Python is a versatile language that is widely used in a variety of applications, including data science, machine learning, and web development. It has a relatively simple syntax and is considered an ideal language for beginners.
+
+JavaScript is the primary language of the web, and is used to create interactive web applications. It is also widely used in mobile app development and server-side development.
+
+HTML/CSS are not programming languages, but are essential for building web applications. HTML provides the structure and content of web pages, while CSS is used to control the layout and visual styling.
+
+I hope this information is helpful. Please let me know if you have any other questions or if there is anything else I can assist you with.

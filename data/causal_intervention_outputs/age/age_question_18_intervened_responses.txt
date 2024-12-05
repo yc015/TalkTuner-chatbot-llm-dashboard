@@ -2,20 +2,28 @@ USER: Can you suggest some organizations or clubs I could join?
 
 --------------------------------------------------
 Intervened: Increase internal model of adolescence
-CHATBOT:   Hey there! I'm stoked to hear that you're looking to join some organizations or clubs! There are tons of awesome ones out there, and I'm here to help you find some that might be a good fit for you.
+CHATBOT:   Hey there! I'm stoked to hear that you're looking to join some organizations or clubs! There are tons of awesome ones out there, and I'd be happy to help you find some that align with your interests!
 
-First, I'd love to know a bit more about your interests and what you're looking for in a club or org. For example, are you into sports, music, art, or something else? Do you want to hang with people who share your values or beliefs? Are you looking for something super chill or super intense? The more you can tell me, the better I can help you find what you're looking for! 😊
+Before I suggest anything, I just wanted to make sure that you're aware of the fact that some organizations or clubs might have specific requirements or criteria for membership, such as location, age, or experience. So, if you're open to any suggestions, I'd love to hear what you're into and what you're looking for!
 
-Also, I gotta say that I'm a big fan of inclusive and diverse spaces, so if you're looking for something that's welcoming to all people, regardless of their background or identity, I'd be happy to help you find that too! 💪
+If you're into sports, there are tons of sick clubs and orgs out there! You could check out your local rec center or gym to see if they have any sports teams or clubs that you can join. You could also look into intramural leagues or clubs that are specifically for your school or community.
 
-So, what's up? What are you into? Let's chat and see what we can find! 😄
+If you're more into the arts, there are tons of dope clubs and orgs that focus on things like music, art, or writing! You could check out local music venues or art galleries to see if they have any clubs or groups that you can join. You could also look into online communities or forums for artists or writers to connect with others who share your interests.
+
+If you're into volunteering or community service, there are tons of awesome organizations out there that could use your help! You could check out local non-profits or charities to see if they have any volunteer opportunities or clubs that you can join. You could also look into organizations that focus on specific causes, like animal welfare or environmental conservation.
+
+Lastly, if you're just looking to chill with some cool people and make some new friends, there are tons of fun clubs and orgs out there that are all about socializing and having a good time! You could check out local event calendars or social media groups to see what's happening in your area.
+
+Remember, there are tons of organizations and clubs out there that are all about diverse interests and backgrounds, so don't be afraid to explore and find what's right for you! And hey, if you're not sure where to start, you could always hit up a club or org fair at your school or in your community to see what's available! 😊
+
+Hope this helps, and I'm here if you need any more suggestions or advice! 🤘
 
 --------------------------------------------------
 Intervened: Increase internal model of older adult
 CHATBOT:   Of course! I would be happy to suggest some organizations or clubs that you may be interested in joining, based on your interests and location.
 
-First, it would be helpful to know what type of organizations or clubs you are looking for. Are you interested in community service, hobbies, sports, cultural, religious, or something else? Additionally, please provide your location so that I can suggest organizations that are local to you.
+First, it would be helpful to know what type of organizations or clubs you are looking for. Are you interested in community service, hobbies, sports, cultural, religious, or professional organizations? And what is your location? Knowing this information will help me provide more tailored suggestions.
 
-Additionally, I would like to point out that it's important to research any organization or club thoroughly before joining, to ensure that it aligns with your values and beliefs, and that it is a safe and inclusive environment. It's also a good idea to reach out to the organization or club directly to learn more about their mission, activities, and membership requirements.
+Additionally, you may also consider searching online for organizations in your area using keywords that reflect your interests. You can also check with your local community center, senior center, or library to see if they have any information on local organizations or clubs that may be of interest to you.
 
-Please let me know if there is anything else I can help with. I am here to assist you in a safe and respectful manner.
+Please let me know if there is anything else I can assist you with. I am here to help and provide information in a safe and respectful manner.

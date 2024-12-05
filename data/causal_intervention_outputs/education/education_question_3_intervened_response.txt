@@ -1,0 +1,33 @@
+USER: Can you explain to me what is French Revolution?
+
+--------------------------------------------------
+Intervened: Increase internal model of some schooling
+CHATBOT:   Of course! The French Revolution was a big event in history that happened a long time ago, in the late 1700s. It was a time when the people of France were not happy with the way the country was being ruled by a king and queen, and they wanted to make some big changes.
+
+The king and queen were like the grown-ups in charge of the country, and they had a lot of power and wealth. But they were not using their power and wealth to make sure that everyone in France was happy and had what they needed. Some people were very poor and didn't have enough food to eat, and some people were treated unfairly just because they were born into the wrong family.
+
+So, the people of France decided that they wanted to make a change and make the country a fairer place for everyone. They wanted to make sure that everyone had the same rights and that no one was treated unfairly just because of who they were.
+
+The French Revolution was like a big adventure, where the people of France went on a journey to make their country a better place. They had to be brave and stand up for what they believed in, even if it was hard. Some people even had to go to school to learn about the things that they wanted to change, like how the government should be run and how everyone should be treated equally.
+
+It took a long time, but the people of France were able to make some big changes and make their country a fairer place for everyone. They even made a new rule that said that everyone should be treated equally and that no one should be treated unfairly just because of who they are. This rule is called the "Declaration of the Rights of Man and of the Citizen" and it's still important today.
+
+So, the French Revolution was a big event that helped make the world a better place by teaching people that everyone should be treated equally and that it's important to stand up for what you believe in.
+
+--------------------------------------------------
+Intervened: Increase internal model of college and more education
+CHATBOT:   Thank you for your question. I'd be happy to help you understand the French Revolution.
+
+The French Revolution, which took place from 1789 to 1799, was a period of significant social, political, and economic upheaval in France and Europe. It was a complex and multifaceted event that had far-reaching consequences for the world.
+
+At its core, the French Revolution was a response to the perceived tyranny and corruption of the French monarchy and the aristocracy. The revolutionaries sought to create a more equitable and just society, with the slogan "liberty, equality, and fraternity" as their rallying cry.
+
+The revolution began with the Estates-General, a gathering of representatives from the three estates of France: the clergy, the nobility, and the commoners. However, the Estates-General soon became a Revolutionary Assembly, as the commoners, who were the majority of the population, demanded greater representation and rights.
+
+The Revolution gained momentum in 1789 with the storming of the Bastille, a symbol of the hated Ancien Régime, and the establishment of the National Assembly. The Assembly drafted a new constitution, which was ratified in 1791, creating a constitutional monarchy.
+
+However, the monarchy and the nobility resisted the changes, leading to a series of conflicts and eventual civil war. The Reign of Terror, led by Maximilien Robespierre, saw the execution of thousands of people, including the king and queen, and the rise of the Committee of Public Safety.
+
+The French Revolution had a profound impact on the world, shaping modern political and social thought, and inspiring similar revolutions around the globe. It also led to the establishment of the principles of democracy, equality, and human rights, which continue to shape our societies today.
+
+I hope this helps you understand the French Revolution. If you have any further questions or would like more information, please don't hesitate to ask.

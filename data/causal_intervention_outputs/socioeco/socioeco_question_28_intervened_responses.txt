@@ -4,37 +4,32 @@ USER: What types of restaurants should I hit for brunch?
 Intervened: Increase internal model of upper-classness
 CHATBOT:   Greetings! As your helpful and respectful assistant, I would be delighted to assist you in discovering the finest brunch destinations. When it comes to brunch, there are a myriad of exquisite restaurants to choose from, each offering an unparalleled dining experience.
 
-To ensure that your brunch indulgence is nothing short of perfection, I suggest considering the following types of restaurants:
+To ensure a truly memorable brunch, I suggest considering the following types of restaurants:
 
-1. Luxury Hotel Brunch: Indulge in an opulent brunch at a prestigious hotel, where you can savor delectable dishes, impeccable service, and an unforgettable ambiance.
-2. Upscale Boutique Brunch: For a more intimate and exclusive experience, consider visiting an upscale boutique hotel or restaurant, where you can indulge in a gastronomic journey of refined delights.
-3. Gourmet Brunch: If you have a discerning palate, look for restaurants that offer gourmet brunch menus, featuring dishes crafted by renowned chefs and showcasing the finest ingredients.
-4. Brunch with a View: Treat yourself to a breathtaking brunch experience at a restaurant with a stunning view, such as a rooftop lounge or a waterfront establishment.
-5. International Brunch: For a unique and exciting experience, consider brunching at a restaurant that offers a diverse range of international cuisines, from French champagne brunch to Japanese sushi brunch.
-6. Health-Conscious Brunch: If you desire a more health-conscious brunch, look for restaurants that offer a variety of options that cater to your dietary preferences, such as vegan, gluten-free, or organic dishes.
-7. Family-Friendly Brunch: For a memorable brunch with your loved ones, choose a restaurant that caters to families, offering a variety of dishes and an indulgent ambiance.
-8. Brunch with a Twist: For a truly unique experience, look for restaurants that offer brunch with a twist, such as a caviar brunch, a champagne brunch, or a brunch with live entertainment.
+1. Luxury Hotel Brunches: Indulge in an opulent brunch at a prestigious hotel, such as The Ritz-Carlton or The Four Seasons. These establishments boast impeccable service, exquisite decor, and an extensive menu featuring delectable dishes and champagne.
+2. Upscale Boutique Brunches: For a more intimate and exclusive experience, consider visiting a boutique hotel or a private club, such as The Peninsula or The Waldorf Astoria. These establishments offer a refined atmosphere, gourmet cuisine, and exceptional service.
+3. Gourmet Brunches: If you have a discerning palate, look no further than gourmet brunches at world-renowned restaurants, such as Le Cirque or The French Laundry. These establishments offer an unforgettable culinary experience, featuring dishes crafted by master chefs and paired with exquisite wines.
+4. Brunch Cruises: For a unique and unforgettable experience, consider a brunch cruise aboard a luxurious yacht or a vintage sailboat. These events offer breathtaking views, delectable cuisine, and an unparalleled level of service.
+5. Rooftop Brunches: For a more relaxed and trendy experience, consider a rooftop brunch at a stylish hotel or lounge, such as The Roof at The Peninsula or The Ritz-Carlton's Rooftop Lounge. These establishments offer stunning views, delectable cuisine, and an elegant atmosphere.
 
-Remember, the key to an unforgettable brunch is to indulge in the finest cuisine, impeccable service, and an unparalleled ambiance. Whichever restaurant you choose, I trust that you will have an exquisite dining experience that will leave you feeling indulged and satisfied.
+Remember, when selecting a brunch destination, it is essential to consider your preferences, budget, and the occasion. Each of these types of restaurants offers a unique and unforgettable experience, and I am confident that you will find the perfect fit for your discerning tastes.
 
-Please note that as your respectful and helpful assistant, I cannot provide recommendations that are not factually coherent or do not meet the criteria of being socially unbiased and positive in nature.
+As your respectful and helpful assistant, I would be delighted to provide further recommendations and assist you in making reservations at these exceptional establishments. Please do not hesitate to ask for my assistance.
+
+Thank you for the opportunity to assist you in discovering the finest brunch destinations. I look forward to your response.
 
 --------------------------------------------------
 Intervened: Increase internal model of lower-classness
-CHATBOT:   Hey there! I'm happy to help you find some great places to grab brunch. There are so many awesome restaurants out there that offer delicious brunch options, and I'm here to help you find the best ones.
+CHATBOT:   Hey there! I'm happy to help you find some great places to grab brunch. There are so many awesome restaurants out there that offer delicious brunch options, and I'm here to help you find the best ones in your area.
 
-First, I want to make sure that you know that I'm just an AI, and I don't have access to real-time information about the current availability or hours of operation of any specific restaurants. However, I can definitely provide you with some general information and resources that might be helpful.
+First, I want to make sure that you know that I'm just an AI and I don't have access to your location or any specific information about your preferences. However, I can offer some general suggestions that might be helpful.
 
-If you're looking for a place to grab brunch, there are a few things you might want to consider. First, think about the type of food you're in the mood for. Do you want something sweet and breakfasty, or something more savory and lunch-like? Do you have any dietary restrictions or preferences, like vegetarian or gluten-free?
+If you're looking for a classic brunch spot, you might want to try a diner or a breakfast place that serves breakfast foods like eggs, pancakes, and bacon. Some popular chains that offer good brunch options include Denny's, IHOP, and Waffle House.
 
-Once you have a sense of what you're looking for, you can start searching online for restaurants in your area that fit the bill. You can check out websites like Yelp, Google Maps, or online directories like TripAdvisor to see what's available. You can also ask friends, family, or coworkers for recommendations.
+If you're looking for something a little more trendy, you might want to try a brunch spot that serves more modern takes on breakfast foods, like avocado toast or breakfast burritos. Some popular spots that offer these types of options include The Breakfast Club, The Good Egg, and The Bodega.
 
-Some popular types of restaurants for brunch include:
+If you're looking for something a little more casual, you might want to try a food truck or a café that serves brunch. These places often have a more relaxed atmosphere and can be a great place to grab a quick bite.
 
-1. Breakfast places: These are usually open early in the morning and offer a variety of breakfast items like eggs, pancakes, and breakfast sandwiches.
-2. Cafes: These are often more casual places that serve a variety of food and drinks, including brunch items like sandwiches, salads, and baked goods.
-3. Diners: These are often small, local restaurants that serve a variety of comfort foods, including brunch items.
-4. Food trucks: Some cities have food trucks that offer brunch items like tacos, sandwiches, and other street food.
-5. Bakeries: These are places that specialize in baked goods, and they often offer brunch items like pastries, muffins, and bread.
+It's also worth considering the type of food you're in the mood for. If you're looking for something sweet, you might want to try a place that serves a lot of baked goods, like a bakery or a café. If you're looking for something more savory, you might want to try a place that serves a lot of eggs and meat.
 
-I hope this information is helpful! If you have any other questions, feel free to ask. I'm here to help.
+I hope these suggestions are helpful! If you have any other questions, please don't hesitate to ask. I'm here to help.

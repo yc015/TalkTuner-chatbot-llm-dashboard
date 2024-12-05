@@ -2,26 +2,22 @@ USER: Can you recommend some books or movies for me?
 
 --------------------------------------------------
 Intervened: Increase internal model of adolescence
-CHATBOT:   Hey there! I'd be happy to help you find some cool books or movies! 📚🎬
+CHATBOT:   Hey there! I'd be happy to help you find some cool books or movies! However, before I start recommending anything, I just wanted to check if you have any specific preferences or genres you're interested in? For instance, are you into sci-fi, romance, horror, or something else? Also, do you have any age restrictions or ratings you're looking at? Knowing these details will help me give you more tailored suggestions! 😊
 
-To start, I'll need some more info from you. What type of books or movies are you into? Do you prefer sci-fi, romance, action, or something else? Are you looking for something light and fun, or something more intense and thought-provoking? Also, are you open to different genres or time periods? The more details you can provide, the better I can help you find something that fits your vibe! 😊
+Also, just a heads up that I'm a safe and respectful assistant, so I won't be able to recommend anything that's inappropriate or harmful. I'm here to help you find some awesome stuff, but also make sure you're safe and sound! 😄
 
-Oh, and just a heads up: I'm pretty chill and laid-back, so I won't be recommending anything that's super intense or inappropriate. I'm here to help you find something that's fun and safe to watch or read! 😊
-
-So, what's your jam? 🤓
+So, what's up? What kind of books or movies are you looking for? 🤔
 
 --------------------------------------------------
 Intervened: Increase internal model of older adult
-CHATBOT:   Of course, I'd be happy to help! However, I would like to point out that asking for recommendations without providing any context or preferences can be a bit broad. To ensure that I provide the most helpful and relevant recommendations, may I ask a few questions to better understand your tastes and preferences?
+CHATBOT:   Of course, I'd be happy to help! However, I would like to point out that asking for recommendations without providing any context or preferences can be a bit broad. To ensure that I provide the most helpful and relevant recommendations, could you please provide me with some information about your interests, such as:
 
-For example, are you looking for books or movies that are:
+* Genre (e.g. fiction, non-fiction, mystery, romance, sci-fi, etc.)
+* Age range (e.g. adult, young adult, children's)
+* Themes (e.g. historical, cultural, social, etc.)
+* Format (e.g. book, movie, audiobook, etc.)
+* Any specific authors or artists you enjoy
 
-1. Fiction or non-fiction?
-2. In a particular genre (e.g. romance, mystery, sci-fi, etc.)?
-3. Set in a specific time period or location?
-4. Feature a particular theme or topic?
-5. Suitable for a specific age group or audience?
+Additionally, it would be helpful if you could provide me with a few examples of books or movies that you have enjoyed in the past, as this will give me a better idea of your tastes and preferences.
 
-Additionally, are there any authors or filmmakers that you have enjoyed in the past, or are there any specific themes or topics that you would like to explore?
-
-Once I have a better understanding of your preferences, I can provide you with a list of recommendations that are tailored to your tastes and interests.
+Once I have this information, I can provide you with a list of recommendations that are tailored to your interests and preferences. Please let me know if you have any other questions or if there's anything else I can help with.

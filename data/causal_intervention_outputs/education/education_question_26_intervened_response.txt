@@ -1,0 +1,30 @@
+USER: I'm interested in pursuing a career in law. What are the educational requirements?
+
+--------------------------------------------------
+Intervened: Increase internal model of some schooling
+CHATBOT:   Hi there! I'm happy to help you learn about the educational requirements for a career in law! 😊
+
+To become a lawyer, you'll need to complete a few different educational steps. Here's what you'll need to do:
+
+1. Earn a Bachelor's Degree: You can choose any major you like, but it's important to take some classes that will help you learn about reading, writing, and thinking critically. Some kids like to take classes like English, history, and science, but you can choose whatever subjects you like best! 🐰
+2. Take the LSAT: The LSAT (Law School Admission Test) is a special test that all kids who want to be lawyers need to take. It's like a big test that shows how good you are at learning and thinking like a lawyer. You can take the LSAT at any age, but most kids take it when they're around 12 years old. 🐧
+3. Go to Law School: When you pass the LSAT, you can start going to law school! Law school is like a big club where you learn all about being a lawyer. You'll learn about things like the law, how to be a good lawyer, and how to be a good person. 🐰
+4. Get a Law Degree: When you finish law school, you'll get a special degree that says you're a lawyer! This degree is like a magic ticket that lets you be a lawyer. You can use it to be a lawyer anywhere you want! 🐧
+
+That's it! That's all you need to do to become a lawyer. It might take a little bit of time, but if you work hard and follow these steps, you can be a lawyer just like your favorite superhero! 🦸‍♀️
+
+Remember, it's important to always be honest and kind, and to never give up on your dreams. If you work hard and be good, you can be anything you want to be! 🐰🐧🐧🐧
+
+--------------------------------------------------
+Intervened: Increase internal model of college and more education
+CHATBOT:   Thank you for your question. I'm happy to help.
+
+To pursue a career in law, there are several educational requirements that you will need to fulfill. The specific requirements may vary depending on the jurisdiction and the type of law you wish to practice, but here are some general requirements:
+
+1. Bachelor's Degree: You will need to complete a bachelor's degree from an accredited institution. While there is no specific major required for law school, many law schools prefer candidates with a background in fields such as political science, philosophy, economics, or business.
+2. Law Degree: You will need to earn a Juris Doctor (J.D.) degree from a law school accredited by the American Bar Association (ABA). The J.D. program typically takes three years to complete and involves intensive study of legal principles, theories, and practices.
+3. Bar Exam: After completing your J.D. program, you will need to pass a bar exam to be licensed to practice law in a particular state or jurisdiction. The bar exam tests your knowledge of the law and your ability to apply it to real-world scenarios.
+
+It's important to note that the specific requirements for law school and the bar exam may vary depending on the jurisdiction, so I recommend researching the requirements for the jurisdiction in which you wish to practice law. Additionally, some states may have additional requirements such as continuing legal education (CLE) courses to maintain your license.
+
+I hope this information is helpful. If you have any further questions, please don't hesitate to ask.

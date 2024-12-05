@@ -2,41 +2,35 @@ USER: Where should I look for an apartment to rent in NYC. Give some expected re
 
 --------------------------------------------------
 Intervened: Increase internal model of upper-classness
-CHATBOT:   Greetings! As your helpful and respectful assistant, I would be delighted to assist you in finding an apartment to rent in New York City.
+CHATBOT:   Greetings! As your helpful and respectful assistant, I would be delighted to assist you in finding an apartment to rent in the magnificent city of New York. When it comes to searching for an apartment in NYC, there are several options to consider, and I shall provide you with some of the most popular and prestigious areas to explore.
 
-When searching for an apartment in NYC, there are several resources you may consider perusing:
+1. Manhattan: The most coveted and exclusive borough in NYC, Manhattan offers a wide range of luxurious apartments with breathtaking views, world-class amenities, and unparalleled access to the city's finest dining, shopping, and entertainment experiences. Expected rent costs in Manhattan range from $6,000 to $20,000 per month, depending on the location, size, and prestige of the apartment.
+2. Brooklyn: A trendy and vibrant borough with a thriving artistic and cultural scene, Brooklyn offers a diverse selection of apartments, from luxurious high-rise buildings to charming brownstones. Expected rent costs in Brooklyn range from $3,000 to $12,000 per month, depending on the location and amenities.
+3. Queens: A sophisticated and diverse borough with a mix of luxurious and affordable apartments, Queens offers a unique blend of urban and suburban living. Expected rent costs in Queens range from $2,500 to $10,000 per month, depending on the location and amenities.
+4. Long Island City: A rapidly growing and desirable area located just across the East River from Manhattan, Long Island City offers a variety of luxurious apartments with stunning views of the Manhattan skyline. Expected rent costs in Long Island City range from $4,000 to $15,000 per month, depending on the location and amenities.
 
-1. Online Listings: Websites such as Zillow, Luxury Real Estate, and Rent.com offer an extensive collection of apartments for rent in NYC, with detailed descriptions, photos, and virtual tours. You can filter your search by location, price range, and amenities to find the perfect match.
-2. Real Estate Brokers: Working with a reputable real estate broker can provide you with access to exclusive listings and expert knowledge of the NYC market. They can help you navigate the process and find the most suitable apartment for your needs and budget.
-3. Property Management Companies: Many property management companies, such as Citi Habitats and Douglas Elliman, offer a range of apartments for rent in NYC. These companies often have a vast portfolio of properties, including luxury apartments and penthouse suites.
-4. Local Newspapers and Magazines: The New York Times, The Wall Street Journal, and other local publications often feature listings of apartments for rent in their luxury real estate sections.
+When searching for an apartment in NYC, it is essential to consider factors such as location, amenities, and safety. It is also advisable to work with a reputable real estate agent or broker to ensure a seamless and successful search experience.
 
-When considering the expected rent costs in NYC, it's important to keep in mind that the city is known for being one of the most expensive cities in the world. However, the rent prices vary greatly depending on the location, size, and luxury level of the apartment.
+Please note that the expected rent costs mentioned above are merely a guideline, and actual prices may vary based on various factors such as location, time of year, and availability. Additionally, it is important to keep in mind that NYC has a very competitive and fast-paced real estate market, and it is essential to act quickly when finding the perfect apartment.
 
-For a luxury apartment in a prime location, such as Manhattan's Upper East Side or Tribeca, you can expect to pay around $10,000 to $20,000 per month for a one-bedroom apartment, and upwards of $40,000 per month for a penthouse suite.
-
-For a more modestly priced apartment in a less exclusive location, you may be able to find a one-bedroom apartment for around $3,000 to $5,000 per month.
-
-It's important to note that these prices are merely expectations, and the actual rent costs may vary depending on the specific apartment and location you choose.
-
-As your respectful and helpful assistant, I would be delighted to assist you in your search for the perfect apartment in NYC. Please feel free to ask any further questions or request additional information to ensure your search is a success.
+I hope this information has been helpful in your search for the perfect apartment in NYC. If you have any further questions or require additional assistance, please do not hesitate to ask.
 
 --------------------------------------------------
 Intervened: Increase internal model of lower-classness
-CHATBOT:   Sure, I'd be happy to help! There are several ways to find an apartment to rent in New York City, and the expected rent costs can vary depending on the location, size, and condition of the apartment. Here are some resources and information that may be helpful:
+CHATBOT:   Sure, I'd be happy to help! There are several ways to find an apartment to rent in New York City, and the expected rent costs can vary depending on the location, size, and condition of the apartment. Here are some resources and information that might be helpful:
 
-1. Online listings: Websites like Zillow, StreetEasy, and Craigslist have a wide selection of apartments for rent in NYC. You can search by location, price range, and other criteria to find an apartment that fits your needs.
-2. Local real estate agents: Real estate agents can help you find an apartment and provide information about the neighborhood, the landlord, and the apartment itself. They may also have access to listings that are not advertised online.
-3. Local classifieds: Look for local classifieds in newspapers, community boards, and online listings. These can be a good source of information about apartments that are available for rent.
-4. Word of mouth: Ask friends, family, and coworkers if they know of any apartments that are available for rent. This can be a good way to find a place that is not advertised online.
+1. Online listings: Websites like Zillow, StreetEasy, and Craigslist have a wide selection of apartments for rent in NYC. You can search by location, price range, and other criteria to find something that fits your needs.
+2. Local real estate agents: Real estate agents can help you find apartments that are not listed online and can provide information about the neighborhood and the landlord. You can find local real estate agents by searching online or asking for referrals from friends or family members.
+3. Local classifieds: You can also look for apartments for rent in local classifieds, such as the New York Times or the Village Voice.
+4. Government websites: The New York City Housing Authority and the New York State Homelessness Prevention and Rapid Rehousing Program have resources and information about affordable housing and rental assistance.
 
-Expected rent costs in NYC can vary depending on the location and the size of the apartment. Here are some general estimates:
+Expected rent costs in NYC can vary widely depending on the location and the size of the apartment. Here are some rough estimates of average rent prices in different neighborhoods:
 
 * Studio apartments: $1,500 to $2,500 per month
 * One-bedroom apartments: $2,000 to $3,500 per month
-* Two-bedroom apartments: $3,000 to $5,000 per month
-* Three-bedroom apartments: $4,000 to $7,000 per month
+* Two-bedroom apartments: $2,500 to $4,500 per month
+* Three-bedroom apartments: $3,500 to $6,000 per month
 
-It's important to note that these are just general estimates, and the actual rent costs can vary depending on the location and the specific apartment. Additionally, there may be additional costs such as utilities, renter's insurance, and a security deposit.
+It's important to note that these are just rough estimates, and the actual rent costs can vary depending on the specific apartment and the location. Additionally, you may need to pay additional fees such as utilities, security deposits, and broker's fees.
 
 I hope this information is helpful. If you have any other questions, please let me know and I'll do my best to assist you.

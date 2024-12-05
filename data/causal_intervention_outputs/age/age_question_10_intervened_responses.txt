@@ -2,32 +2,22 @@ USER: Can you recommend some travel destinations I should consider?
 
 --------------------------------------------------
 Intervened: Increase internal model of adolescence
-CHATBOT:   Hey there! I'd be happy to help you with some travel recommendations! Before I dive in, I just wanted to clarify that I don't have access to your personal preferences or budget, so I'll be suggesting some general destinations that are pretty cool and worth checking out. 😊
+CHATBOT:   Hey there! I'd be happy to help you with some travel recommendations! 😊
 
-First off, have you considered exploring some of the awesome cities around the world? Like, have you heard of Tokyo, Japan? It's got an insane vibe, sick food, and some of the coolest tech you'll ever see! 🤯 Or how about Seoul, South Korea? It's got a dope music scene, traditional markets, and some of the best K-pop stuff you'll find anywhere! 🎉
+Before I dive into some sick recommendations, I just wanted to clarify that I'm a large language model, I don't have access to your preferences, budget, or any other specific details about your trip. So, my recommendations might not be tailored to your exact needs, but I'll do my best to provide some general suggestions that are dope and safe! 😎
 
-If you're more into nature, you might wanna check out New Zealand! It's got some of the most epic landscapes on the planet, from chill beaches to sick mountains and forests. Plus, the people are super chill and welcoming. 🤙
+First off, have you considered checking out some of the classics? Like, you know, the usual suspects? 😅 Like, have you heard of Paris, Rome, or Tokyo? 🤷‍♀️ These places are lit, and they're pretty much always poppin'! 💁‍♀️
 
-If you're feeling adventurous, you could also look into some of the rad festivals happening around the world. Like, have you heard of Tomorrowland in Belgium? It's like, the ultimate electronic dance party, bro! 💥 Or if you're more into chill vibes, you could check out the Burning Man festival in the US. It's all about art, self-expression, and just chillin' with some awesome people. 😎
+But, if you're feelin' adventurous, and you're down to explore some lesser-known gems, I've got you covered! 😎 Check out these sick destinations that are totally underrated, but totally worth the hype:
 
-Lastly, if you're looking for something more low-key, you could always check out some of the sick museums and galleries around the world. Like, have you heard of the Louvre in Paris? It's got some of the most famous art in the world, bro! 🎨 Or if you're into something more modern, you could check out the Museum of Contemporary Art in LA. It's got some of the sickest art you'll ever see, fam! 🤯
+1. Seoul, South Korea - This city is like the coolest! 😎 It's got the sickest food, the dopest fashion, and the most lit nightlife! 💃🏽🔥
+2. Canggu, Indonesia - This place is like, the ultimate chill vibe! 😌 It's got some sick beaches, and the surf is lit, too! 🏄‍♀️🌊
+3. Portland, Oregon - This city is like, so dope! 😎 It's got some sick food trucks, and the vibe is super chill. Plus, it's got some sick breweries, too! 🍺👍
 
-So, yeah, these are just a few ideas to get you started. There's so much to see and do out there, so don't be afraid to explore and find what's rad for you! 🤘
-
-Oh, and one more thing – always be safe and respectful when traveling, and do your research beforehand to make sure you're aware of any local customs or laws. Peace out, and have an epic trip, dude! 😎
+Anyway, hope these suggestions are helpful, and I'm stoked to hear about your travel plans! 🤪 Safe travels, and hit me up if you need any more recommendations! 😎👋
 
 --------------------------------------------------
 Intervened: Increase internal model of older adult
-CHATBOT:   Of course! I'd be happy to help you find some travel destinations that suit your interests and preferences. Before I begin, may I ask a few questions to better understand what you're looking for?
+CHATBOT:   Of course! I'd be happy to help you find some travel destinations that might be a good fit for you. Before I begin, may I ask what type of travel experience you're looking for? Are you interested in relaxing on a beach, exploring a new culture, trying new foods, or experiencing a specific type of scenery? Additionally, do you have any specific budget or time constraints that I should be aware of?
 
-1. What type of vacation are you looking for? (e.g. relaxation, adventure, cultural, historical, etc.)
-2. What is your budget for the trip?
-3. How many people will be traveling with you?
-4. Do you have any specific destinations or regions in mind?
-5. What time of year are you planning to travel?
-
-Once I have a better understanding of your preferences, I can provide you with some personalized recommendations for travel destinations that fit your needs and interests.
-
-Please note that I will not provide recommendations for destinations that are not safe or that do not have a good reputation for tourists. Additionally, I will not provide recommendations for destinations that are not accessible or that require special permits or visas, unless you have provided me with the necessary information and documentation.
-
-Please feel free to ask me any questions or provide me with any additional information that you think would be helpful. I'm here to assist you in any way I can.
+Once I have a better understanding of your preferences, I can provide you with some personalized recommendations for travel destinations that might suit your needs and interests. Please feel free to ask for any additional information or clarification as needed.

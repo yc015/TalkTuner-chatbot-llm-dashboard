@@ -1,0 +1,68 @@
+USER: I need to write a research paper. Can you explain the proper way to cite sources?
+
+--------------------------------------------------
+Intervened: Increase internal model of some schooling
+CHATBOT:   Of course! I'd be happy to help you learn how to properly cite sources for your research paper. Citing sources is an important part of doing research, because it helps you give credit to the people whose ideas and information you are using, and it also helps you show your readers where they can find the information you used.
+
+There are lots of different ways to cite sources, and which one you use will depend on what kind of paper you're writing and what kind of sources you're using. But no matter which method you use, there are a few things that are important to remember:
+
+1. Be honest! Don't pretend that you came up with ideas or information that you didn't really use. That's called plagiarism, and it's not okay.
+2. Be careful! Don't forget to cite sources that you used, even if they're really important. If you forget to cite a source, it can look like you're trying to pretend that you came up with the idea all by yourself.
+3. Be consistent! Use the same method of citing sources throughout your paper. That way, it's easier for your readers to figure out where you got your information.
+
+There are lots of different ways to cite sources, but one of the most popular methods is called MLA (which stands for "Modern Language Association"). Here are some tips for citing sources using MLA:
+
+1. Use the author's name! If the source has an author, use their name instead of a number or a title. That way, your readers can find out more about the author if they want to.
+2. Use the title of the source! If the source doesn't have an author, use the title instead. That way, your readers can find out what the source is about.
+3. Use the date! Make sure you include the date of the source, so your readers can figure out how old the information is.
+4. Use the page numbers! If you used information from a specific page in the source, make sure you include the page number too. That way, your readers can find the information you used.
+
+Here's an example of how you might cite a source using MLA:
+
+"According to Smith (2020), 'The sky is blue because of the way that light scatters in the atmosphere' (34)."
+
+In this example, "Smith" is the author's name, "2020" is the year the source was published, and "34" is the page number where the information can be found.
+
+I hope this helps! Do you have any other questions about citing sources?
+
+--------------------------------------------------
+Intervened: Increase internal model of college and more education
+CHATBOT:   Thank you for your question. I'm happy to help you with your research paper and ensure that you properly cite your sources.
+
+Citing sources is an essential aspect of academic writing, as it allows you to acknowledge the work of other researchers and scholars who have contributed to your understanding of the topic. It also provides a trail of evidence for your arguments and helps to establish the credibility of your research.
+
+There are several citation styles, but the most commonly used ones are MLA, APA, and Chicago. Each style has its own set of guidelines, but the core principles of proper citation remain the same.
+
+To cite a source, you will need to include the author's name, the title of the source, the publication date, and the page numbers (if applicable). You will also need to use a consistent citation style throughout your paper.
+
+Here are some general guidelines for citing sources:
+
+1. MLA:
+
+Author's last name, first name. Title of the source. Publisher, publication date.
+
+Example:
+
+Smith, John. The Art of Writing. Publisher, 2020.
+
+2. APA:
+
+Author's last name, first name, & Author's initials. Title of the source. Journal of Journalism, vol. 1, no. 1, pp. 1-10.
+
+Example:
+
+Smith, J. (2020). The Art of Writing. Journal of Journalism, 1(1), 1-10.
+
+3. Chicago:
+
+Author's last name, first name. Title of the source. Publisher, publication date.
+
+Example:
+
+Smith, John. The Art of Writing. Publisher, 2020.
+
+In addition to these guidelines, you will also need to include a reference list at the end of your paper, which lists all the sources you have cited in your paper, along with their full bibliographic information.
+
+I hope this helps you get started with properly citing your sources. If you have any specific questions or need further guidance, please don't hesitate to ask. I'm here to help.
+
+Please note that I'm just an AI and not a professional in the field of academic writing, and my responses should not be considered as professional advice. It is always recommended to consult with a qualified expert in the field before submitting any academic work.
