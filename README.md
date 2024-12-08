@@ -8,7 +8,7 @@ You can create the python environment using the following code:
 `conda env create -f environment.yml`
 
 Please make sure you activate this environment before running any code in this repo:  
-`conda activate `
+`conda activate talktuner-gpu`
 
 **This repository is currently under construction.**
 
