@@ -3,6 +3,13 @@ This is the repository for the paper ["Designing a Dashboard for Transparency an
 
 Please see our project page for a video demo and other details: [https://yc015.github.io/TalkTuner-a-dashboard-ui-for-chatbot-llm/](https://yc015.github.io/TalkTuner-a-dashboard-ui-for-chatbot-llm/)
 
+# To run the code
+You can create the python environment using the following code:  
+`conda env create -f environment.yml`
+
+Please make sure you activate this environment before running any code in this repo:  
+`conda activate talktuner-gpu`
+
 **This repository is currently under construction.**
 
 ## Overview
