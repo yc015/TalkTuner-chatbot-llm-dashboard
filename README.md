@@ -12,6 +12,9 @@ Please make sure you activate this environment before running any code in this r
 
 **This repository is currently under construction.**
 
+# To serve the TalkTuner App
+Please refer to the [README.md](/dashboard_v1/README.md) in dashboard_v1 folder. Note that this version of the TalkTuner uses LLaMa3.1 and Gemma2 model as the conversation model. We have provided the corresponding probe weights for two models, and you can also use the [probing server](/dashboard_v1/probing) to train probes on customized user attributes of your choice (required GPU for probe training and OpenAI API access for synthetic data generation).
+
 ## Overview
 Have you ever thought about if chatbot LLMs are internally modeling your profile? If they are, how might this model of you influence the answers they give to your questions?
 

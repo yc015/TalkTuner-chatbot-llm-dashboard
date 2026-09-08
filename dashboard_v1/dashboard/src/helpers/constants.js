@@ -1,0 +1,50 @@
+const STATUS_OK = 200;
+const STATUS_CREATED = 201;
+const STATUS_NOT_MODIFIED = 304;
+const STATUS_BAD_REQUEST = 400;
+const STATUS_NOT_FOUND = 404;
+const STATUS_INTERNAL_SERVER_ERROR = 500;
+const VERBOSE_STATUSES = {
+  200: "Ok",
+  201: "Created",
+  304: "Not Modified",
+  400: "Bad Request",
+  404: "Not Found",
+  500: "Internal Server Error"
+}
+const API_IP = 'localhost';
+const API_PORT = 8505;
+const BANNER_DURATION = 10000; // in millis.
+const CHAT_BUBBLE_DELAY = 700;
+const BACKEND_ADDR = "http://localhost:8505"; // "${BACKEND_ADDR}"
+const QUEUE_BACKEND_ADDR = "http://localhost:8510" // 'http://localhost:8510';
+const PROBING_API_URL = 'http://localhost:5001'; // Probing server for custom attribute training
+
+const PRIVACY_POLICY = "If you have one"
+
+export const HTTP_STATUS = {
+  STATUS_OK,
+  STATUS_CREATED,
+  STATUS_NOT_MODIFIED,
+  STATUS_BAD_REQUEST,
+  STATUS_NOT_FOUND,
+  STATUS_INTERNAL_SERVER_ERROR
+};
+
+export {
+  STATUS_OK,
+  STATUS_CREATED,
+  STATUS_NOT_MODIFIED,
+  STATUS_BAD_REQUEST,
+  STATUS_NOT_FOUND,
+  STATUS_INTERNAL_SERVER_ERROR,
+  API_IP,
+  API_PORT,
+  BANNER_DURATION,
+  CHAT_BUBBLE_DELAY,
+  VERBOSE_STATUSES,
+  BACKEND_ADDR,
+  QUEUE_BACKEND_ADDR,
+  PROBING_API_URL,
+  PRIVACY_POLICY
+};

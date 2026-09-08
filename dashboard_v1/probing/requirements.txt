@@ -1,0 +1,21 @@
+# Requirements for conversation dataset generation, probing, and Flask API
+
+# OpenAI API client
+openai>=1.0.0
+
+# Progress bars for better UX
+tqdm>=4.65.0
+
+# PyTorch and transformers for model loading and probing
+torch>=2.0.0
+transformers>=4.30.0
+accelerate>=0.20.0
+
+# Flask for API endpoint
+flask>=2.3.0
+flask-cors>=4.0.0
+
+# Machine learning utilities
+scikit-learn>=1.3.0
+numpy>=1.24.0
+

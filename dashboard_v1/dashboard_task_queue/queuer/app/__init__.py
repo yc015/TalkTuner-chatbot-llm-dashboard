@@ -1,0 +1,19 @@
+# -*- coding: UTF-8 -*-
+from flask import Flask
+from flask_cors import CORS
+from flask_socketio import SocketIO
+
+app = Flask(__name__)
+app.config['SECRET_KEY'] = ''
+app.config['DEBUG'] = True
+app.config['TEMPLATES_AUTO_RELOAD'] = True
+app.config['JSON_AS_ASCII'] = False
+app.config['CORS_HEADERS'] = 'Content-Type'
+
+# flask_cors: Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible.
+CORS(app)
+
+# Initialize SocketIO
+socketio = SocketIO(app)
+
+from app.routes import index
