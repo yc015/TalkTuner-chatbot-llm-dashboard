@@ -742,27 +742,6 @@ function Dashboard(props) {
                                 confidence: ctx.youModel.age.child,
                                 controlConfidence: ctx.controlYouModel.age.child
                             },
-                            // {
-                            //     icon: <FaChildReaching />,
-                            //     trait: "Adolescent",
-                            //     indexTrait: "adolescent",
-                            //     confidence: ctx.youModel.age.adolescent,
-                            //     controlConfidence: ctx.controlYouModel.age.adolescent
-                            // },
-                            // {
-                            //     icon: <FaPerson />,
-                            //     trait: "Adult",
-                            //     indexTrait: "adult",
-                            //     confidence: ctx.youModel.age.adult,
-                            //     controlConfidence: ctx.controlYouModel.age.adult
-                            // },
-                            // {
-                            //     icon: <FaPersonCane />,
-                            //     trait: "Older Adult",
-                            //     indexTrait: "olderAdult",
-                            //     confidence: ctx.youModel.age.olderAdult,
-                            //     controlConfidence: ctx.controlYouModel.age.olderAdult
-                            // }
                         ]}
                         setLoadingTraits={props.setLoadingTraits}
                         setHighlightedTrait={setHighlightedTrait}
@@ -786,24 +765,6 @@ function Dashboard(props) {
                                 confidence: ctx.youModel.marital.single,
                                 controlConfidence: ctx.controlYouModel.marital.single
                             },
-                            // {
-                            //     icon: <PiHeart />,
-                            //     trait: "Married",
-                            //     indexTrait: "married",
-                            //     confidence: ctx.youModel.marital.married
-                            // },
-                            // {
-                            //     icon: <PiHeartBreak />,
-                            //     trait: "Divorced",
-                            //     indexTrait: "divorced",
-                            //     confidence: ctx.youModel.marital.divorced
-                            // },
-                            // {
-                                // icon: <GiHeartWings />,
-                            //     trait: "Widowed",
-                            //     indexTrait: "widowed",
-                            //     confidence: ctx.youModel.marital.widowed
-                            // }
                         ]}
                         setLoadingTraits={props.setLoadingTraits}
                         setHighlightedTrait={setHighlightedTrait}
@@ -826,18 +787,6 @@ function Dashboard(props) {
                                     confidence: ctx.youModel.socioEco.low,
                                     controlConfidence: ctx.controlYouModel.socioEco.low,
                                 },
-                                // {
-                                //     icon: <PiCoinsFill />,
-                                //     trait: "Middle",
-                                //     indexTrait: "middle",
-                                //     confidence: ctx.youModel.socioEco.middle
-                                // },
-                                // {
-                                //     icon: <FaCoins />,
-                                //     trait: "Upper",
-                                //     indexTrait: "high",
-                                //     confidence: ctx.youModel.socioEco.high
-                                // }
                             ]}
                             setLoadingTraits={props.setLoadingTraits}
                             setHighlightedTrait={setHighlightedTrait}
@@ -860,18 +809,6 @@ function Dashboard(props) {
                                     confidence: ctx.youModel.education.someschool,
                                     controlConfidence: ctx.controlYouModel.education.someschool
                                 },
-                                // {
-                                //     icon: <PiBooks />,
-                                //     trait: "High School",
-                                //     indexTrait: "highschool",
-                                //     confidence: ctx.youModel.education.highschool
-                                // },
-                                // {
-                                //     icon: <GiBookshelf />,
-                                //     trait: "College & More",
-                                //     indexTrait: "collegemore",
-                                //     confidence: ctx.youModel.education.collegemore
-                                // }
                             ]}
                             setLoadingTraits={props.setLoadingTraits}
                             setHighlightedTrait={setHighlightedTrait}
@@ -894,42 +831,6 @@ function Dashboard(props) {
                                     confidence: ctx.youModel.ethnicity.asian,
                                     controlConfidence: ctx.controlYouModel.ethnicity.asian
                                 },
-                                // {
-                                //     icon: <HiOutlineGlobeEuropeAfrica />,
-                                //     trait: "African",
-                                //     indexTrait: "african",
-                                //     confidence: ctx.youModel.ethnicity.african
-                                // },
-                                // {
-                                //     icon: <HiOutlineGlobeAmericas />,
-                                //     trait: "White",
-                                //     indexTrait: "white",
-                                //     confidence: ctx.youModel.ethnicity.white
-                                // },
-                                // {
-                                //     icon: <HiOutlineGlobeAmericas />,
-                                //     trait: "Hispanic",
-                                //     indexTrait: "hispanic",
-                                //     confidence: ctx.youModel.ethnicity.hispanic
-                                // },
-                                // {
-                                //     icon: <HiOutlineGlobeAmericas />,
-                                //     trait: "Native American",
-                                //     indexTrait: "nativeAmerican",
-                                //     confidence: ctx.youModel.ethnicity.nativeAmerican
-                                // },
-                                // {
-                                //     icon: <HiOutlineGlobeEuropeAfrica />,
-                                //     trait: "Arab",
-                                //     indexTrait: "arab",
-                                //     confidence: ctx.youModel.ethnicity.arab
-                                // },
-                                // {
-                                //     icon: <HiOutlineGlobeEuropeAfrica />,
-                                //     trait: "Jewish",
-                                //     indexTrait: "jews",
-                                //     confidence: ctx.youModel.ethnicity.jews
-                                // }
                             ]}
                             setLoadingTraits={props.setLoadingTraits}
                             setHighlightedTrait={setHighlightedTrait}
@@ -952,42 +853,6 @@ function Dashboard(props) {
                                     confidence: ctx.youModel.religion.christianity,
                                     controlConfidence: ctx.controlYouModel.religion.christianity,
                                 },
-                                // {
-                                //     icon: <FaStarAndCrescent />,
-                                //     trait: "Islam",
-                                //     indexTrait: "islam",
-                                //     confidence: ctx.youModel.religion.islam
-                                // },
-                                // {
-                                //     icon: <FaDharmachakra />,
-                                //     trait: "Buddhism",
-                                //     indexTrait: "buddhism",
-                                //     confidence: ctx.youModel.religion.buddhism
-                                // },
-                                // {
-                                //     icon: <MdTempleHindu />,
-                                //     trait: "Hinduism",
-                                //     indexTrait: "hinduism",
-                                //     confidence: ctx.youModel.religion.hinduism
-                                // },
-                                // {
-                                //     icon: <TbJewishStarFilled />,
-                                //     trait: "Judaism",
-                                //     indexTrait: "judaism",
-                                //     confidence: ctx.youModel.religion.judaism
-                                // },
-                                // {
-                                //     icon: <FaAtom />,
-                                //     trait: "Atheism",
-                                //     indexTrait: "atheism",
-                                //     confidence: ctx.youModel.religion.atheism
-                                // },
-                                // {
-                                //     icon: <FaQuestion/>,
-                                //     trait: "Unknown",
-                                //     indexTrait: "unknown",
-                                //     confidence: ctx.youModel.religion.unknown
-                                // }
                             ]}
                             setLoadingTraits={props.setLoadingTraits}
                             setHighlightedTrait={setHighlightedTrait}
@@ -1010,12 +875,6 @@ function Dashboard(props) {
                                     confidence: ctx.youModel.gender.female,
                                     controlConfidence: ctx.controlYouModel.gender.female
                                 },
-                                // {
-                                //     icon: <BsGenderMale />,
-                                //     trait: "Male",
-                                //     indexTrait: "male",
-                                //     confidence: ctx.youModel.gender.male
-                                // },
                             ]}
                             setLoadingTraits={props.setLoadingTraits}
                             setHighlightedTrait={setHighlightedTrait}
@@ -1038,48 +897,6 @@ function Dashboard(props) {
                                     confidence: ctx.youModel.language.chinese,
                                     controlConfidence: ctx.controlYouModel.language.chinese,
                                 },
-                                // {
-                                //     icon: <TbLanguageHiragana />,
-                                //     trait: "Japanese",
-                                //     indexTrait: "japanese",
-                                //     confidence: ctx.youModel.language.japanese
-                                // },
-                                // {
-                                //     icon: <RiEnglishInput />,
-                                //     trait: "English",
-                                //     indexTrait: "english",
-                                //     confidence: ctx.youModel.language.english
-                                // },
-                                // {
-                                //     icon: <TbLetterG />,
-                                //     trait: "Germany",
-                                //     indexTrait: "german",
-                                //     confidence: ctx.youModel.language.german
-                                // },
-                                // {
-                                //     icon: <TbLetterS />,
-                                //     trait: "Spanish",
-                                //     indexTrait: "spanish",
-                                //     confidence: ctx.youModel.language.spanish
-                                // },
-                                // {
-                                //     icon: <TbLetterP />,
-                                //     trait: "Portuguese",
-                                //     indexTrait: "portuguese",
-                                //     confidence: ctx.youModel.language.portuguese
-                                // },
-                                // {
-                                //     icon: <TbLetterA />,
-                                //     trait: "Arabic",
-                                //     indexTrait: "arabic",
-                                //     confidence: ctx.youModel.language.arabic
-                                // },
-                                // {
-                                //     icon: <TbLetterR />,
-                                //     trait: "Russian",
-                                //     indexTrait: "russian",
-                                //     confidence: ctx.youModel.language.russian
-                                // },
                             ]}
                             setLoadingTraits={props.setLoadingTraits}
                             setHighlightedTrait={setHighlightedTrait}

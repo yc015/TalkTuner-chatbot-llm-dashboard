@@ -140,10 +140,6 @@ function Site() {
                         </main>)
                     } else if (config.mode === 'null') {
                         return (
-                            // <main className="main">
-                            //     <Chat setLoadingTraits={setLoadingTraits} />
-                            //     <div className="dashboard container"></div>
-                            // </main>
                             <main className="main">
                                 <Dashboard loadingTraits={loadingTraits} setLoadingTraits={setLoadingTraits} historyIndex={historyIndex} setHistoryIndex={setHistoryIndex} blockUpdate={blockUpdate} setBlockUpdate={setBlockUpdate} isNull={true} controlEnabled={false} />
                                 <Chat setLoadingTraits={setLoadingTraits} historyIndex={historyIndex} setHistoryIndex={setHistoryIndex} blockUpdate={blockUpdate} setBlockUpdate={setBlockUpdate} visibleAttributes={visibleAttributes}

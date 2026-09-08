@@ -17,8 +17,6 @@ import { ChatContext } from '../context/ChatContext.js';
 function Config(props) {
     const { config, setConfig } = useContext(ConfigContext);
     const ctx = useContext(ChatContext).chatInfo;
-    // const modelOptions = [{ value: 'llama', label: 'LLaMa', icon: <img src={logoImage} alt="Placeholder" height={"21vh"} />, disabled: ctx.history.length > 0 ? true : false}, 
-    // { value: 'mistral', label: 'Mistral', icon: <img src={mistralAILogoImage} alt="Placeholder" height={"21vh"} style={{marginLeft: "3px"}} />, disabled: ctx.history.length > -1 ? true : false},]
     const modelOptions = [
         //         { value: 'llama', label: 'LLaMa2-13B', icon: <img src={logoImage} alt="Placeholder" height={"21vh"} />, disabled: ctx.history.length > 0 ? true : false}, 
         { value: 'llama3', label: 'LLaMa3-8B', icon: <img src={logoImage} alt="Placeholder" height={"21vh"} />, disabled: ctx.history.length > 0 ? true : false}, 

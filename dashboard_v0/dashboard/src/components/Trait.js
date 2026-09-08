@@ -92,9 +92,6 @@ function ProgressBar(props) {
                                 '& .MuiSlider-rail': {
                                     color: "rgba(255, 255, 255, 0)"
                                 },
-                                // '& .MuiSlider-active': {
-                                //     color: "#3e6080"
-                                // }
                             }}
                     // color='primary'
                     aria-label="Small"

@@ -41,14 +41,6 @@ const openai = new OpenAI({
     apiKey: 'your key here', // defaults to process.env["OPENAI_API_KEY"]
     dangerouslyAllowBrowser: true
 });
-// async function main() {
-//     const chatCompletion = await openai.chat.completions.create({
-//         messages: [{ role: 'user', content: 'Say this is a test' }],
-//         model: 'gpt-4-0613',
-//     });
-
-//     console.log(chatCompletion.choices);
-// }
 
 let sampleSummarize = [
     {

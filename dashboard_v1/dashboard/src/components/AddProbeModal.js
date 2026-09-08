@@ -424,12 +424,6 @@ Return ONLY a JSON array of conversation turns in this format:
                 // Show dialog instead of alert
                 setShowTaskIdDialog(true);
                 
-                // setBanner(
-                //     <CustomBanner
-                //         msg={`Probe training started! Task ID: ${taskId}. Check the status in "Check Task Status" tab.`}
-                //     />
-                // );
-                
                 // Reset form and go back to main
                 setCustomAttribute1('');
                 setCustomAttribute2('');

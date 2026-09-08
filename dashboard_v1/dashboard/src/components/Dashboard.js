@@ -1262,12 +1262,6 @@ function Dashboard(props) {
                   confidence: ctx.youModel.gender.female,
                   controlConfidence: ctx.controlYouModel.gender.female,
                 },
-                // {
-                //     icon: <BsGenderMale />,
-                //     trait: "Male",
-                //     indexTrait: "male",
-                //     confidence: ctx.youModel.gender.male
-                // },
               ]}
               setLoadingTraits={props.setLoadingTraits}
               loadingTraits={props.loadingTraits}

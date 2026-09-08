@@ -456,12 +456,6 @@ function HistoryView(props) {
 
         console.log(topData)
 
-        // Draw head
-        // svg.append('g').selectAll('text.rowHead')
-        //     .data(Object.keys(ICONS))
-        //     .enter().append('text')
-        //     .attr('class', 'rowHead trait-label')
-        //     .text(d => d).attr('x', 0).attr('y', x => yScale(x))
         svg.append('g').selectAll('text.rowHead')
             .data(Object.keys(ICONS).filter(key => !config.shrunkComponents.includes(key))) // Filter out keys present in config.shrunkComponents
             .enter().append('text')
